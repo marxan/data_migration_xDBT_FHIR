@@ -1,0 +1,6713 @@
+[
+    {
+        "1": {
+            "Dauermedikamente": "Bisoprolol 10 mg Tabl.",
+            "Dauermedikamente ab Datum": "00000000",
+            "_Dauermedikamente": {
+                "Dauermed. abgesetzt am": "10022014",
+                "Einnahmeplan": "1/2-0-0",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "7684349",
+                "Preis": "12.17",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "2": {
+            "Dauermedikamente": "Bisogamma 10 30ST FTA",
+            "Dauermedikamente ab Datum": "09102012",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "1/2-0-0",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "1224724",
+                "Preis": "12.17",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "3": {
+            "Dauermedikamente": "Ramipril 10 mg Tbl.",
+            "Dauermedikamente ab Datum": "10022014",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "0-0-1/2",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "2355138",
+                "Preis": "11.90",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "4": {
+            "Dauermedikamente": "Tactipen Schwarz Injekt Ge 1 ST",
+            "Dauermedikamente ab Datum": "27012008",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "2-3-1",
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "6704699",
+                "Preis": "99.91",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "5": {
+            "Dauermedikamente": "Fluconazol 50 1A Pharma Kapseln 50 ST",
+            "Dauermedikamente ab Datum": "04122008",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "2-3-1",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1191108",
+                "Preis": "81.76",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "6": {
+            "Dauermedikamente": "Ibutad 600 Tad Pharma Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "10102011",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "1-2-1",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3550379",
+                "Preis": "18.15",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "7": {
+            "Dauermedikamente": "Eisen SANDOZ Brause-/Trinktabletten 20 ST",
+            "Dauermedikamente ab Datum": "19072010",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "3-3-2",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "209740",
+                "Preis": "5.44",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "8": {
+            "Dauermedikamente": "Tramadolor 100 Id HEXAL Retard-Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "02032011",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "4-4-2",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "8543332",
+                "Preis": "22.67",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "9": {
+            "Dauermedikamente": "Activelle Filmtabletten Filmtabletten 28 ST",
+            "Dauermedikamente ab Datum": "04122005",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "4-1-2",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "80513",
+                "Preis": "24.53",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "10": {
+            "Dauermedikamente": "Rispolept Consta 37.5mg TRS 2 ST",
+            "Dauermedikamente ab Datum": "05122007",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "4-0-4",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "7393758",
+                "Preis": "462.97",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "11": {
+            "Dauermedikamente": "Amoxicillin Rat Comp 250ts Trockensaft 100 ML",
+            "Dauermedikamente ab Datum": "11122007",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "0-4-4",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "7622064",
+                "Preis": "28.67",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "12": {
+            "Dauermedikamente": "Tramal 50 Ampullen 5 ST",
+            "Dauermedikamente ab Datum": "21062010",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "0-0-4",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "2029172",
+                "Preis": "12.89",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "13": {
+            "Dauermedikamente": "Perenterol 50MG Kapseln 20 ST",
+            "Dauermedikamente ab Datum": "27012014",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "2-2-0",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1320586",
+                "Preis": "7.24",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "14": {
+            "Dauermedikamente": "Penicillin V -CT 1.5mio IE Filmtabletten 30 St",
+            "Dauermedikamente ab Datum": "24092007",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "2-4-2",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4191178",
+                "Preis": "14.43",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "15": {
+            "Dauermedikamente": "EryHEXAL 1000 Granulat 12 ST",
+            "Dauermedikamente ab Datum": "15122008",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "4-2-1",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3144248",
+                "Preis": "17.54",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "16": {
+            "Dauermedikamente": "Linoladiol H N Creme 50 G",
+            "Dauermedikamente ab Datum": "01042008",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "2-0-3",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3656209",
+                "Preis": "24.32",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "17": {
+            "Dauermedikamente": "Urgoplast Inj Pflast 4x2cm Pflaster 500 ST",
+            "Dauermedikamente ab Datum": "19082011",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "0-3-2",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3274028",
+                "Preis": "9.45",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "18": {
+            "Dauermedikamente": "Thrombocutan 30000 Gel N Gel 100 G",
+            "Dauermedikamente ab Datum": "18092007",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "1-2-0",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3959329",
+                "Preis": "16.53",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "19": {
+            "Dauermedikamente": "Cefaclor 250 TS 1A Pharma Trockensaft 100 ML",
+            "Dauermedikamente ab Datum": "06102013",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "4-1-3",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "113750",
+                "Preis": "11.45",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "20": {
+            "Dauermedikamente": "Tannosynt Creme Creme 50 G",
+            "Dauermedikamente ab Datum": "04052008",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "2-3-0",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "6188097",
+                "Preis": "30.65",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "21": {
+            "Dauermedikamente": "Allvoran S Suppositorien 50 ST",
+            "Dauermedikamente ab Datum": "04062005",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "3-2-3",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3451677",
+                "Preis": "22.24",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "22": {
+            "Dauermedikamente": "Cefuroxim - CT 500MG Film Filmtabletten 24 ST",
+            "Dauermedikamente ab Datum": "21092004",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "2-4-4",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1276827",
+                "Preis": "17.98",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "23": {
+            "Dauermedikamente": "Silikonkatheter Ch18 5.0Ml 1 ST",
+            "Dauermedikamente ab Datum": "13032006",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "3-3-0",
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "1442409",
+                "Preis": "144.53",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "24": {
+            "Dauermedikamente": "Klacid Pro Filmtabletten 12 ST",
+            "Dauermedikamente ab Datum": "30052011",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "4-0-3",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "1449133",
+                "Preis": "5.45",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "25": {
+            "Dauermedikamente": "Falithrom Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "27052013",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "3-2-4",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4421744",
+                "Preis": "84.99",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "26": {
+            "Dauermedikamente": "Dhc 90 Mundipharma Retard-Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "18042008",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "4-4-3",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3931408",
+                "Preis": "19.90",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "27": {
+            "Dauermedikamente": "Olynth 0.1% 15 ML",
+            "Dauermedikamente ab Datum": "05082004",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "0-2-1",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "4300124",
+                "Preis": "41.95",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "28": {
+            "Dauermedikamente": "Asche Basis Creme Creme 1 KG",
+            "Dauermedikamente ab Datum": "27022005",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "0-1-3",
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "4952559",
+                "Preis": "109.54",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "29": {
+            "Dauermedikamente": "Molimed Classic Maxi 28 ST",
+            "Dauermedikamente ab Datum": "04092005",
+            "_Dauermedikamente": {
+                "Einnahmeplan": "0-1-3",
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "1581370",
+                "Preis": "1290.80",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "30": {
+            "Dauermedikamente": "Myospasmal Tabletten 20 ST",
+            "Dauermedikamente ab Datum": "31082012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "7323002",
+                "Preis": "29.49",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "31": {
+            "Dauermedikamente": "Formatris 12\u0160g Nov Patrone 3 ST",
+            "Dauermedikamente ab Datum": "16062009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3840516",
+                "Preis": "19.72",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "32": {
+            "Dauermedikamente": "Euphrasia Augentropfen Augentropfen 30X0.5 ml",
+            "Dauermedikamente ab Datum": "11042004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "1448168",
+                "Preis": "14.70",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "33": {
+            "Dauermedikamente": "Climodien 2/2MG Ueberz Tab 3X28 ST",
+            "Dauermedikamente ab Datum": "03012010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1569044",
+                "Preis": "37.64",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "34": {
+            "Dauermedikamente": "Azithro Meda 500mg Filmtabletten 3 ST",
+            "Dauermedikamente ab Datum": "08022007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4780331",
+                "Preis": "19.81",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "35": {
+            "Dauermedikamente": "Rifun 20mg Tabl.magensaftres. 98 ST",
+            "Dauermedikamente ab Datum": "06082004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "7265026",
+                "Preis": "18.15",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "36": {
+            "Dauermedikamente": "Fluad 2009/2010 Fertigspritzen 20X0.5 ML",
+            "Dauermedikamente ab Datum": "26052005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "7231056",
+                "Preis": "33.34",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "37": {
+            "Dauermedikamente": "Smofkabiven Zentral Infusionsl\u00f6sung 8X1477 ML",
+            "Dauermedikamente ab Datum": "10122005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "5138097",
+                "Preis": "14.95",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "38": {
+            "Dauermedikamente": "Cellumed Augentropfen 3x15 ML",
+            "Dauermedikamente ab Datum": "09102010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3394229",
+                "Preis": "17.47",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "39": {
+            "Dauermedikamente": "Prednicarbat Acis Creme Creme 50 g",
+            "Dauermedikamente ab Datum": "27082004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4881517",
+                "Preis": "17.49",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "40": {
+            "Dauermedikamente": "Thiogamma 200 Oral Kapseln 30 ST",
+            "Dauermedikamente ab Datum": "08112013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "4942667",
+                "Preis": "11.85",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "41": {
+            "Dauermedikamente": "Leponex 50 Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "22082010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "8757033",
+                "Preis": "98.88",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "42": {
+            "Dauermedikamente": "Doneurin 50 Filmtabletten Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "06112013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "271934",
+                "Preis": "21.56",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "43": {
+            "Dauermedikamente": "Ibutad 600 Tad Pharma Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "31072011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3550379",
+                "Preis": "24.55",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "44": {
+            "Dauermedikamente": "Glucobay 50 Tabletten 105 ST",
+            "Dauermedikamente ab Datum": "10092009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "4182736",
+                "Preis": "33.74",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "45": {
+            "Dauermedikamente": "Amadol Tad Pharma Tropfen 30 ML",
+            "Dauermedikamente ab Datum": "09062004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "7387752",
+                "Preis": "32.65",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "46": {
+            "Dauermedikamente": "Fenistil Injektionsloesung Ampullen 5 ST",
+            "Dauermedikamente ab Datum": "21122004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "2337666",
+                "Preis": "89.13",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "47": {
+            "Dauermedikamente": "Locol 20 Kapseln 100 ST",
+            "Dauermedikamente ab Datum": "14032013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "6322880",
+                "Preis": "19.87",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "48": {
+            "Dauermedikamente": "Dansac Nova2 Basis 1155-15 5 ST",
+            "Dauermedikamente ab Datum": "11052013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4184907",
+                "Preis": "38.85",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "49": {
+            "Dauermedikamente": "Actraphane 30 Penfill Zam ZAM 5X3 ML",
+            "Dauermedikamente ab Datum": "12022008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3125558",
+                "Preis": "507.67",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "50": {
+            "Dauermedikamente": "Ebixa 10mg/G Tropfen Tropfen 100 G",
+            "Dauermedikamente ab Datum": "30032013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "2650357",
+                "Preis": "11.10",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "51": {
+            "Dauermedikamente": "Doxycyclin STADA 200 Filmtabletten 10 ST",
+            "Dauermedikamente ab Datum": "01082010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "2525824",
+                "Preis": "15.78",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "52": {
+            "Dauermedikamente": "Formatris 12\u0160g Nov 3px60ED 3 St",
+            "Dauermedikamente ab Datum": "18092013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "9617707",
+                "Preis": "16.61",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "53": {
+            "Dauermedikamente": "Spironolacton 50 Plus Heum Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "04102004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "4928070",
+                "Preis": "60.71",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "54": {
+            "Dauermedikamente": "Tramadol Loesung 1A Pharma 100 ML",
+            "Dauermedikamente ab Datum": "27042009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3682684",
+                "Preis": "14.99",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "55": {
+            "Dauermedikamente": "Perfalgan 10mg/ml Infusionsl\u00f6sung 12x100 ML",
+            "Dauermedikamente ab Datum": "08062011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "2499860",
+                "Preis": "139.88",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "56": {
+            "Dauermedikamente": "Depo Clinovir Spritzampullen 1X1 ML",
+            "Dauermedikamente ab Datum": "13042004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "4068236",
+                "Preis": "39.91",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "57": {
+            "Dauermedikamente": "Alendron-HEXAL 70mg 1xwoec Tabletten 4 ST",
+            "Dauermedikamente ab Datum": "24072006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "460753",
+                "Preis": "12.95",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "58": {
+            "Dauermedikamente": "Oxycodon Hcl ratio 20mg Retard-Tabletten 50 St",
+            "Dauermedikamente ab Datum": "16112010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "1926515",
+                "Preis": "38.64",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "59": {
+            "Dauermedikamente": "Levodopa Comp - CT 100/25 Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "21042012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "888764",
+                "Preis": "23.57",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "60": {
+            "Dauermedikamente": "Pantozol 20mg Tabl.magensaftres. 28 ST",
+            "Dauermedikamente ab Datum": "29032005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "7265167",
+                "Preis": "62.82",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "61": {
+            "Dauermedikamente": "Lomatuell H 10x20cm 10 ST",
+            "Dauermedikamente ab Datum": "17082012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3275619",
+                "Preis": "99.98",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "62": {
+            "Dauermedikamente": "Schlitzkom 7.5x7.5 12f Ste Kompressen 50X2 ST",
+            "Dauermedikamente ab Datum": "22052006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "5015182",
+                "Preis": "18.11",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "63": {
+            "Dauermedikamente": "Alkdepot Sq197 Fruehbl Af Flaschen 4x5 ML",
+            "Dauermedikamente ab Datum": "24022013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3872686",
+                "Preis": "47.65",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "64": {
+            "Dauermedikamente": "Hydrocutan Creme 0.25% Creme 50 G",
+            "Dauermedikamente ab Datum": "02122005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1138723",
+                "Preis": "15.33",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "65": {
+            "Dauermedikamente": "Texx 300 Filmtabletten 60 ST",
+            "Dauermedikamente ab Datum": "27102008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "7269917",
+                "Preis": "47.02",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "66": {
+            "Dauermedikamente": "Lopedium Kapseln 50 ST",
+            "Dauermedikamente ab Datum": "08052013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3910613",
+                "Preis": "24.50",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "67": {
+            "Dauermedikamente": "Rosidal K Binde 10cmx5m Binden 1 ST",
+            "Dauermedikamente ab Datum": "26072009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "8402896",
+                "Preis": "18.92",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "68": {
+            "Dauermedikamente": "Nexium Mups 40mg Tabl.magensaftres. 30 ST",
+            "Dauermedikamente ab Datum": "22122012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "1340175",
+                "Preis": "23.63",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "69": {
+            "Dauermedikamente": "Artelac Rebalance Augentropfen 10 ml",
+            "Dauermedikamente ab Datum": "19022012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "6907474",
+                "Preis": "16.41",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "70": {
+            "Dauermedikamente": "Cipralex 10MG Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "12102007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3712066",
+                "Preis": "30.07",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "71": {
+            "Dauermedikamente": "Pariet 20MG Tabl.magensaftres. 28 ST",
+            "Dauermedikamente ab Datum": "30112007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4393723",
+                "Preis": "190.97",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "72": {
+            "Dauermedikamente": "Doxazosin SANDOZ 8mg Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "11072010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "802254",
+                "Preis": "5.75",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "73": {
+            "Dauermedikamente": "Calciumcarbonat 0.5g Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "19052006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3394608",
+                "Preis": "43.86",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "74": {
+            "Dauermedikamente": "Nachtkerzensamenoel 512mg Kapseln 90 St",
+            "Dauermedikamente ab Datum": "01072005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "9462966",
+                "Preis": "279.10",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "75": {
+            "Dauermedikamente": "Morphin-Puren 10mg Retard RET 100 ST",
+            "Dauermedikamente ab Datum": "11032013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "197362",
+                "Preis": "12.44",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "76": {
+            "Dauermedikamente": "Verladyn Tropfen 100 ml",
+            "Dauermedikamente ab Datum": "24072005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3428454",
+                "Preis": "22.90",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "77": {
+            "Dauermedikamente": "Fixomull Stretch 15cmx10m 1 ST",
+            "Dauermedikamente ab Datum": "26112009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4040746",
+                "Preis": "36.14",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "78": {
+            "Dauermedikamente": "Esberitox N L\u00f6sung 150 ML",
+            "Dauermedikamente ab Datum": "24032005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "7298965",
+                "Preis": "355.77",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "79": {
+            "Dauermedikamente": "Xeristar 30mg Kaps.magensaftres. 28 St",
+            "Dauermedikamente ab Datum": "20062005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "9332809",
+                "Preis": "4.95",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "80": {
+            "Dauermedikamente": "Oxycodon-Hcl Abz 10mg Retard-Tabletten 100 St",
+            "Dauermedikamente ab Datum": "26112007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "6683709",
+                "Preis": "55.80",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "81": {
+            "Dauermedikamente": "Enalapril SANDOZ 30mg Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "28092005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1924870",
+                "Preis": "13.73",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "82": {
+            "Dauermedikamente": "Gingium Loesung Tropfen 2X100 ML",
+            "Dauermedikamente ab Datum": "13062010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4420271",
+                "Preis": "28.43",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "83": {
+            "Dauermedikamente": "Folsaeure Hevert Tabletten 100 St",
+            "Dauermedikamente ab Datum": "29052011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3477352",
+                "Preis": "124.62",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "84": {
+            "Dauermedikamente": "Celebrex 100mg Hartkapseln Kapseln 50 ST",
+            "Dauermedikamente ab Datum": "18092008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "566144",
+                "Preis": "15.09",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "85": {
+            "Dauermedikamente": "Fluoxetin Stada 20MG Kapseln 100 ST",
+            "Dauermedikamente ab Datum": "18062012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "8527391",
+                "Preis": "69.67",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "86": {
+            "Dauermedikamente": "Omeprazol Hennig 20mg Kaps.magensaftres. 50 ST",
+            "Dauermedikamente ab Datum": "13112007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "2331267",
+                "Preis": "53.91",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "87": {
+            "Dauermedikamente": "Altargo 1% Salbe Salbe 5 G",
+            "Dauermedikamente ab Datum": "19052013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "458644",
+                "Preis": "24.67",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "88": {
+            "Dauermedikamente": "Gingium 40mg Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "18112013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "78982",
+                "Preis": "29.93",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "89": {
+            "Dauermedikamente": "Alfason Crinale L\u00f6sung 30 ml",
+            "Dauermedikamente ab Datum": "23012007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3235821",
+                "Preis": "18.16",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "90": {
+            "Dauermedikamente": "Amadol 150mg Retardtabl Retard-Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "02112007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4615980",
+                "Preis": "30.07",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "91": {
+            "Dauermedikamente": "Sortis 80mg Filmtabletten 100 St",
+            "Dauermedikamente ab Datum": "17122008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4000126",
+                "Preis": "107.14",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "92": {
+            "Dauermedikamente": "Nurofen 200mg Schmelzt Lem 12 St",
+            "Dauermedikamente ab Datum": "24042013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "2547582",
+                "Preis": "12.27",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "93": {
+            "Dauermedikamente": "Mirtazapin TEVA 30mg Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "12122007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "218561",
+                "Preis": "39.46",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "94": {
+            "Dauermedikamente": "Fsme Immun 0.25Ml Junior Fertigspritzen 10 ST",
+            "Dauermedikamente ab Datum": "02032013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "32709",
+                "Preis": "76.40",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "95": {
+            "Dauermedikamente": "Einmalkatheter Frauen Ch14 1 ST",
+            "Dauermedikamente ab Datum": "14022011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "52296",
+                "Preis": "37.35",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "96": {
+            "Dauermedikamente": "Amloclair 5mg Tabletten Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "12112005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "993857",
+                "Preis": "12.03",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "97": {
+            "Dauermedikamente": "Sinupret Extract 40 St",
+            "Dauermedikamente ab Datum": "12052008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "9285547",
+                "Preis": "38.14",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "98": {
+            "Dauermedikamente": "Montelair HEXAL 10mg Filmtabletten 20 ST",
+            "Dauermedikamente ab Datum": "27092008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "9062770",
+                "Preis": "40.31",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "99": {
+            "Dauermedikamente": "Seroquel 300mg Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "21082007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "7421035",
+                "Preis": "155.64",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "100": {
+            "Dauermedikamente": "Perenterol Junior 250mg Pulver 10 ST",
+            "Dauermedikamente ab Datum": "08062012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3920586",
+                "Preis": "14.78",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "101": {
+            "Dauermedikamente": "Oxygesic 10MG Retard-Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "03072013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "8516424",
+                "Preis": "80.61",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "102": {
+            "Dauermedikamente": "Matrifen 50Ug / Stunde 10 ST",
+            "Dauermedikamente ab Datum": "01072011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3399215",
+                "Preis": "72.94",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "103": {
+            "Dauermedikamente": "Conform 2 Basisp 55mm35500 5 ST",
+            "Dauermedikamente ab Datum": "03022013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4797047",
+                "Preis": "14.11",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "104": {
+            "Dauermedikamente": "Clarithromycin Abz 250mg Filmtabletten 12 ST",
+            "Dauermedikamente ab Datum": "25122004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3075949",
+                "Preis": "86.79",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "105": {
+            "Dauermedikamente": "Glucagen Trockensubstanz m. L\u00f6sungsmittel 1 ST",
+            "Dauermedikamente ab Datum": "01112012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4998461",
+                "Preis": "4.95",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "106": {
+            "Dauermedikamente": "Eliquis 2.5mg Filmtabl Filmtabletten 60 St",
+            "Dauermedikamente ab Datum": "23052012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3643804",
+                "Preis": "20.77",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "107": {
+            "Dauermedikamente": "Campral Tabl.magensaftres. 48 ST",
+            "Dauermedikamente ab Datum": "17042011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "7326584",
+                "Preis": "26.47",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "108": {
+            "Dauermedikamente": "BetaGALEN Creme Creme 50 G",
+            "Dauermedikamente ab Datum": "24082004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "6880290",
+                "Preis": "15.95",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "109": {
+            "Dauermedikamente": "Prednisolut 1000mg Injektionsflaschen 1 ST",
+            "Dauermedikamente ab Datum": "10022008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "503451",
+                "Preis": "19.94",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "110": {
+            "Dauermedikamente": "Itraconazol Dura 100mg Kapseln 28 ST",
+            "Dauermedikamente ab Datum": "18072007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "5969071",
+                "Preis": "1781.88",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "111": {
+            "Dauermedikamente": "Codipront Mono Ret Tropfen Suspension 15 G",
+            "Dauermedikamente ab Datum": "28082013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4858949",
+                "Preis": "95.51",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "112": {
+            "Dauermedikamente": "Valette 6X21 ST",
+            "Dauermedikamente ab Datum": "12102005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "5128087",
+                "Preis": "7.09",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "113": {
+            "Dauermedikamente": "Locol 40 Novartis Kapseln 100 ST",
+            "Dauermedikamente ab Datum": "25032006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "6322928",
+                "Preis": "8.00",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "114": {
+            "Dauermedikamente": "Azarga Augentropfen 5 ML",
+            "Dauermedikamente ab Datum": "13112009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "672188",
+                "Preis": "12.01",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "115": {
+            "Dauermedikamente": "Calciumacetat Nefro 500MG Filmtabletten 200 ST",
+            "Dauermedikamente ab Datum": "01122008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4133212",
+                "Preis": "37.84",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "116": {
+            "Dauermedikamente": "Tramadol SANDOZ 150mg Retard-Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "19102007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3828567",
+                "Preis": "14.67",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "117": {
+            "Dauermedikamente": "Lovenox 40MG Fertigspritzen 20 ST",
+            "Dauermedikamente ab Datum": "21072011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "70176",
+                "Preis": "14.86",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "118": {
+            "Dauermedikamente": "Hct TEVA 25mg Tabletten Tabletten 30 ST",
+            "Dauermedikamente ab Datum": "28072004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "5498909",
+                "Preis": "12.41",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "119": {
+            "Dauermedikamente": "Valsartan Act Comp320/25mg Filmtabletten 98 ST",
+            "Dauermedikamente ab Datum": "22072006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "9266202",
+                "Preis": "80.16",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "120": {
+            "Dauermedikamente": "Gabapentin SANDOZ 300mg Kapseln 200 ST",
+            "Dauermedikamente ab Datum": "01092008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3413725",
+                "Preis": "11.92",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "121": {
+            "Dauermedikamente": "Gutron Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "15122006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3337160",
+                "Preis": "9.70",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "122": {
+            "Dauermedikamente": "Ocuvite Lutein Amd Tabletten 180 ST",
+            "Dauermedikamente ab Datum": "08082010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "1007607",
+                "Preis": "39.46",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "123": {
+            "Dauermedikamente": "Diazepam Stada 5MG Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "29012007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "2077142",
+                "Preis": "53.91",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "124": {
+            "Dauermedikamente": "Repaglinid ratio 0.5mg Tab Tabletten 120 ST",
+            "Dauermedikamente ab Datum": "03042013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3047516",
+                "Preis": "13.13",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "125": {
+            "Dauermedikamente": "Kolibri Comfort Maxi 12X20 ST",
+            "Dauermedikamente ab Datum": "01022011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "890784",
+                "Preis": "13.92",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "126": {
+            "Dauermedikamente": "Beta Acetyldig 0.1MG Mibe Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "10062013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3119919",
+                "Preis": "80.55",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "127": {
+            "Dauermedikamente": "Petnidan Saft 250 ML",
+            "Dauermedikamente ab Datum": "23022014",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4897197",
+                "Preis": "134.68",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "128": {
+            "Dauermedikamente": "Seroquel Prolong 50mg Retard-Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "31072013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3287700",
+                "Preis": "52.22",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "129": {
+            "Dauermedikamente": "Calcilac Kt Kautabletten 50 ST",
+            "Dauermedikamente ab Datum": "28042004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "241330",
+                "Preis": "150.87",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "130": {
+            "Dauermedikamente": "Fentanyl-HEXAL S 12\u0160g/h 20 ST",
+            "Dauermedikamente ab Datum": "02102012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "7314670",
+                "Preis": "26.89",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "131": {
+            "Dauermedikamente": "Cymbalta 30MG Kaps.magensaftres. 28 ST",
+            "Dauermedikamente ab Datum": "28052007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "565009",
+                "Preis": "12.45",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "132": {
+            "Dauermedikamente": "Panto Heumann 20mg Tabl.magensaftres. 14 ST",
+            "Dauermedikamente ab Datum": "30082008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "5738615",
+                "Preis": "188.16",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "133": {
+            "Dauermedikamente": "Metformin Sandoz 500MG Filmtabletten 120 ST",
+            "Dauermedikamente ab Datum": "23122008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "801326",
+                "Preis": "4.34",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "134": {
+            "Dauermedikamente": "Nac 100 v CT Brause BTA 20 ST",
+            "Dauermedikamente ab Datum": "04062008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "7228723",
+                "Preis": "54.88",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "135": {
+            "Dauermedikamente": "Vera 40 v CT Dragees 100 ST",
+            "Dauermedikamente ab Datum": "08082009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4469739",
+                "Preis": "6.20",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "136": {
+            "Dauermedikamente": "Efient 10mg Filmtabletten 28 ST",
+            "Dauermedikamente ab Datum": "19062013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "5743510",
+                "Preis": "33.87",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "137": {
+            "Dauermedikamente": "Osteoplus Brause-/Trinktabletten 10 ST",
+            "Dauermedikamente ab Datum": "28022010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "2433513",
+                "Preis": "3.95",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "138": {
+            "Dauermedikamente": "Trimipramin 50 1A Pharma Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "17102009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "278505",
+                "Preis": "12.11",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "139": {
+            "Dauermedikamente": "Verapamil 240 Ret 1A Pharm RET 100 St",
+            "Dauermedikamente ab Datum": "19092011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4129541",
+                "Preis": "18.35",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "140": {
+            "Dauermedikamente": "Multilind Mikrosilber Creme 75 ML",
+            "Dauermedikamente ab Datum": "07122009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1913576",
+                "Preis": "19.25",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "141": {
+            "Dauermedikamente": "Nasonex 140 Spruehstoesse Nasenspray 18 g",
+            "Dauermedikamente ab Datum": "19032012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "5962867",
+                "Preis": "42.96",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "142": {
+            "Dauermedikamente": "Avonex 30\u0160g 6 Mio IE TRS 4 ST",
+            "Dauermedikamente ab Datum": "20092008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1511079",
+                "Preis": "14.53",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "143": {
+            "Dauermedikamente": "Kreon 25000 Solvay Kapseln 200 ST",
+            "Dauermedikamente ab Datum": "20032012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4946837",
+                "Preis": "55.75",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "144": {
+            "Dauermedikamente": "Lecicarbon E Co2 Laxans Erw.Suppositorien 10 St",
+            "Dauermedikamente ab Datum": "22012007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4018681",
+                "Preis": "19.95",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "145": {
+            "Dauermedikamente": "Tetrazepam 1A Pharma Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "01072006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "766506",
+                "Preis": "24.28",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "146": {
+            "Dauermedikamente": "Clarithromycin Stada 250MG Filmtabletten 12 ST",
+            "Dauermedikamente ab Datum": "12122007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "3702518",
+                "Preis": "22.30",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "147": {
+            "Dauermedikamente": "Mullbinde Elast 4mx10cm Binden 50 ST",
+            "Dauermedikamente ab Datum": "07042009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "8698922",
+                "Preis": "82.87",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "148": {
+            "Dauermedikamente": "Multilind Heilsal Nys+Zink Paste 25 g",
+            "Dauermedikamente ab Datum": "23052012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3737422",
+                "Preis": "533.63",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "149": {
+            "Dauermedikamente": "Enalapril Abz 10mg Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "13012011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "2058593",
+                "Preis": "78.24",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "150": {
+            "Dauermedikamente": "Hydrocortison GALEN 10mg Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "21092006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "2818609",
+                "Preis": "163.33",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "151": {
+            "Dauermedikamente": "Volonimat Salbe N Dermapha Salbe 20 G",
+            "Dauermedikamente ab Datum": "11092013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3661311",
+                "Preis": "55.67",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "152": {
+            "Dauermedikamente": "Ramipril Sandoz 7.5MG Tabl Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "21102004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4653360",
+                "Preis": "15.26",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "153": {
+            "Dauermedikamente": "Faktu Akut Salbe Salbe 30 G",
+            "Dauermedikamente ab Datum": "30112008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "8514425",
+                "Preis": "19.60",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "154": {
+            "Dauermedikamente": "Meloxicam SANDOZ 7.5mg Tabletten 20 ST",
+            "Dauermedikamente ab Datum": "20052004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4243389",
+                "Preis": "14.65",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "155": {
+            "Dauermedikamente": "Isosource Stan Ben Neutral Fl\u00fcssigkeit 12x500 ML",
+            "Dauermedikamente ab Datum": "23032011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4494909",
+                "Preis": "33.31",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "156": {
+            "Dauermedikamente": "Broncho Vaxom Erwachsene Kapseln 10 ST",
+            "Dauermedikamente ab Datum": "02042009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1427083",
+                "Preis": "73.39",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "157": {
+            "Dauermedikamente": "Ligasano Kompr Ste 10x10x1 Kompressen 10 ST",
+            "Dauermedikamente ab Datum": "10052005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1912795",
+                "Preis": "42.21",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "158": {
+            "Dauermedikamente": "Paracetamol Stada 500 Tabletten 30 ST",
+            "Dauermedikamente ab Datum": "04072011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "4860426",
+                "Preis": "21.63",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "159": {
+            "Dauermedikamente": "Exoderil Creme Creme 20 g",
+            "Dauermedikamente ab Datum": "22042012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "3043837",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "160": {
+            "Dauermedikamente": "Valsartan Act Comp320/25mg Filmtabletten 98 ST",
+            "Dauermedikamente ab Datum": "17102012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "9266202",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "161": {
+            "Dauermedikamente": "Itraconazol AL 100mg Hart Kapseln 28 ST",
+            "Dauermedikamente ab Datum": "18062008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "7396",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "162": {
+            "Dauermedikamente": "Furadantin Retard Retard-Kapseln 20 ST",
+            "Dauermedikamente ab Datum": "03052013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "1272953",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "163": {
+            "Dauermedikamente": "Metformin Atid 850mg Filmtabletten 120 St",
+            "Dauermedikamente ab Datum": "16042004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "5542243",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "164": {
+            "Dauermedikamente": "Losartan Comp-CT 100/12.5 Filmtabletten 98 ST",
+            "Dauermedikamente ab Datum": "10012008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3447629",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "165": {
+            "Dauermedikamente": "Doss 1\u0160g Weichkapseln Kapseln 100 ST",
+            "Dauermedikamente ab Datum": "21122010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "4923078",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "166": {
+            "Dauermedikamente": "Attends Soft 1+ Mini 1X18 ST",
+            "Dauermedikamente ab Datum": "24112013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "1324839",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "167": {
+            "Dauermedikamente": "Remergil Soltab 15mg 48 ST",
+            "Dauermedikamente ab Datum": "31082008",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "2430259",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "168": {
+            "Dauermedikamente": "Oxycodon Hcl beta 20mg Retard-Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "09012013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "4681652",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "169": {
+            "Dauermedikamente": "Nitroxolin Forte Kapseln 20 ST",
+            "Dauermedikamente ab Datum": "29122013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "6960250",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "170": {
+            "Dauermedikamente": "Furorese 20mg/2ml Injekt Ampullen 5 St",
+            "Dauermedikamente ab Datum": "31012006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3126635",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "171": {
+            "Dauermedikamente": "Januvia 100mg Filmtabl Filmtabletten 98 St",
+            "Dauermedikamente ab Datum": "22012009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "817103",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "172": {
+            "Dauermedikamente": "Erlanger Verbandset 1 ST",
+            "Dauermedikamente ab Datum": "06072004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "3305869",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "173": {
+            "Dauermedikamente": "Baldrian Kapseln 20 St",
+            "Dauermedikamente ab Datum": "23022013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "6994450",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "174": {
+            "Dauermedikamente": "Zytrim 50mg Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "13102009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "4409358",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "175": {
+            "Dauermedikamente": "Fol Plus Laktosefrei Tabletten 60 ST",
+            "Dauermedikamente ab Datum": "12042007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "203507",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "176": {
+            "Dauermedikamente": "Kaltostat 10Cmx20cm Kompressen 1X10 ST",
+            "Dauermedikamente ab Datum": "05122012",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N1",
+                "Pharmazentralnummer": "6965336",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "177": {
+            "Dauermedikamente": "Dusodril Forte Filmtabletten 100 ST",
+            "Dauermedikamente ab Datum": "19122005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Packungsgr\u00f6\u00dfe": "N3",
+                "Pharmazentralnummer": "6319547",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "178": {
+            "Dauermedikamente": "Optipen 1 E Rot Metall 1 ST",
+            "Dauermedikamente ab Datum": "10052007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Packungsgr\u00f6\u00dfe": "N2",
+                "Pharmazentralnummer": "125517",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "179": {
+            "Dauermedikamente": "Emesan K Lindopharm Kdr.Suppositorien 5 ST",
+            "Dauermedikamente ab Datum": "30112009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "6964791",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "180": {
+            "Dauermedikamente": "Ibuprofen Abz 400mg Filmtabletten 50 ST",
+            "Dauermedikamente ab Datum": "13042007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "1016078",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "181": {
+            "Dauermedikamente": "Ramipril 1A Ph Plu2.5/12.5 Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "25122004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2889584",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "182": {
+            "Dauermedikamente": "Kolibri Basic Maxi Einlage 20 ST",
+            "Dauermedikamente ab Datum": "15122009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Pharmazentralnummer": "6062918",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "183": {
+            "Dauermedikamente": "Formatris 6\u0160g Nov Patrone 2X60 ST",
+            "Dauermedikamente ab Datum": "14082005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "3840315",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "184": {
+            "Dauermedikamente": "Kombi Stopfen Rot Steril 1 ST",
+            "Dauermedikamente ab Datum": "02052010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Pharmazentralnummer": "7373520",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "185": {
+            "Dauermedikamente": "Ambene Filmtabletten 50 ST",
+            "Dauermedikamente ab Datum": "21092011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "3832304",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "186": {
+            "Dauermedikamente": "Madopar 250 Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "24022005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "3501866",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "187": {
+            "Dauermedikamente": "Metoprolol - CT 100MG Tabl Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "10092009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "3964891",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "188": {
+            "Dauermedikamente": "Aquacel Ag 10x10cm Kompressen 10 ST",
+            "Dauermedikamente ab Datum": "08082009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2140082",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "189": {
+            "Dauermedikamente": "Attends Soft 1+ Mini 1X18 ST",
+            "Dauermedikamente ab Datum": "24092009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Pharmazentralnummer": "1324839",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "190": {
+            "Dauermedikamente": "Voltaren Dispers Tabletten 90 ST",
+            "Dauermedikamente ab Datum": "24012011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "7235077",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "191": {
+            "Dauermedikamente": "Pantoprazol Nyc 20mg Nycom TMR 100 ST",
+            "Dauermedikamente ab Datum": "26072010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "7183073",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "192": {
+            "Dauermedikamente": "Amlodipin Sandoz 5MG Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "18112004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "1367429",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "193": {
+            "Dauermedikamente": "Pantozol 20mg Westen Tabl.magensaftres. 30 ST",
+            "Dauermedikamente ab Datum": "25052005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2019067",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "194": {
+            "Dauermedikamente": "Venostasin Retard Retard-Kapseln 100 ST",
+            "Dauermedikamente ab Datum": "24062005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "1567803",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "195": {
+            "Dauermedikamente": "Glucosamin Chondroitin Kapseln 60 ST",
+            "Dauermedikamente ab Datum": "23012006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "5907928",
+                "Verordnungsart": "1"
+            }
+        }
+    },
+    {
+        "196": {
+            "Dauermedikamente": "Bronchoretard 350 Retard-Kapseln 100 ST",
+            "Dauermedikamente ab Datum": "08052013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2363913",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "197": {
+            "Dauermedikamente": "Euthyrox 100 Tabletten 50 ST",
+            "Dauermedikamente ab Datum": "18112004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "6976179",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "198": {
+            "Dauermedikamente": "Goldgeist Forte Eduard Fl\u00fcssigkeit 250 ML",
+            "Dauermedikamente ab Datum": "22072005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2893829",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "199": {
+            "Dauermedikamente": "Blopresid 16MG Plus 12.5Mg Tabletten 98 ST",
+            "Dauermedikamente ab Datum": "16042011",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "4648904",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "200": {
+            "Dauermedikamente": "Targin 40mg/20mg Retard-Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "10082010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Pharmazentralnummer": "696183",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "201": {
+            "Dauermedikamente": "Delix 2.5MG Plus Tabletten Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "22012014",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "4750011",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "202": {
+            "Dauermedikamente": "Milgamma 300mg Filmtabl Filmtabletten 90 ST",
+            "Dauermedikamente ab Datum": "06122007",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2913905",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "203": {
+            "Dauermedikamente": "Fentanyl Actavis 100\u0160g/h 10 ST",
+            "Dauermedikamente ab Datum": "22112006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Pharmazentralnummer": "4683088",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "204": {
+            "Dauermedikamente": "Rollstuhl Faltbar Standard 1 ST",
+            "Dauermedikamente ab Datum": "08052010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Pharmazentralnummer": "3375580",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "205": {
+            "Dauermedikamente": "Cefasel 300\u0160g Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "19052006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "499086",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "206": {
+            "Dauermedikamente": "Norflox 400 v CT Filmtabletten 50 ST",
+            "Dauermedikamente ab Datum": "12122010",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "427891",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "207": {
+            "Dauermedikamente": "Metfogamma 850 Filmtabletten 120 ST",
+            "Dauermedikamente ab Datum": "08122004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "255355",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "208": {
+            "Dauermedikamente": "Fluoxetin Neurax 10 Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "05092005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2136175",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "209": {
+            "Dauermedikamente": "Risperidon Tad 0.5MG Fta Filmtabletten 50 ST",
+            "Dauermedikamente ab Datum": "09112004",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2729461",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "210": {
+            "Dauermedikamente": "Fentanyl Actavis 25Ug/H 5 ST",
+            "Dauermedikamente ab Datum": "15102005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "1",
+                "Pharmazentralnummer": "4682491",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "211": {
+            "Dauermedikamente": "Accu-Chek Softclix Lancet 200 ST",
+            "Dauermedikamente ab Datum": "14052013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "3",
+                "Pharmazentralnummer": "1998845",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "212": {
+            "Dauermedikamente": "Furosemid SANDOZ 500mg Tabletten 100 ST",
+            "Dauermedikamente ab Datum": "05112006",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "840409",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "213": {
+            "Dauermedikamente": "Mycospor Creme 20 G",
+            "Dauermedikamente ab Datum": "28122013",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "6971880",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "214": {
+            "Dauermedikamente": "Baycuten Hc Creme Creme 60 G",
+            "Dauermedikamente ab Datum": "15022009",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2464933",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "215": {
+            "Dauermedikamente": "Fucidine Creme 30 G",
+            "Dauermedikamente ab Datum": "15032005",
+            "_Dauermedikamente": {
+                "Medikamententyp": "0",
+                "Pharmazentralnummer": "2735504",
+                "Verordnungsart": "0"
+            }
+        }
+    },
+    {
+        "216": {
+            "Satzl\u00e4nge": "00000225"
+        }
+    },
+    {
+        "217": {
+            "Satzl\u00e4nge": "00000172"
+        }
+    },
+    {
+        "218": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "219": {
+            "Satzl\u00e4nge": "00000167"
+        }
+    },
+    {
+        "220": {
+            "Satzl\u00e4nge": "00000189"
+        }
+    },
+    {
+        "221": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "222": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "223": {
+            "Satzl\u00e4nge": "00000178"
+        }
+    },
+    {
+        "224": {
+            "Satzl\u00e4nge": "00000236"
+        }
+    },
+    {
+        "225": {
+            "Satzl\u00e4nge": "00000183"
+        }
+    },
+    {
+        "226": {
+            "Satzl\u00e4nge": "00000189"
+        }
+    },
+    {
+        "227": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "228": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "229": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "230": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "231": {
+            "Satzl\u00e4nge": "00000222"
+        }
+    },
+    {
+        "232": {
+            "Satzl\u00e4nge": "00000247"
+        }
+    },
+    {
+        "233": {
+            "Satzl\u00e4nge": "00000276"
+        }
+    },
+    {
+        "234": {
+            "Satzl\u00e4nge": "00000222"
+        }
+    },
+    {
+        "235": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "236": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "237": {
+            "Satzl\u00e4nge": "00000375"
+        }
+    },
+    {
+        "238": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "239": {
+            "Satzl\u00e4nge": "00000229"
+        }
+    },
+    {
+        "240": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "241": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "242": {
+            "Satzl\u00e4nge": "00000210"
+        }
+    },
+    {
+        "243": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "244": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "245": {
+            "Satzl\u00e4nge": "00000229"
+        }
+    },
+    {
+        "246": {
+            "Satzl\u00e4nge": "00000310"
+        }
+    },
+    {
+        "247": {
+            "Satzl\u00e4nge": "00000294"
+        }
+    },
+    {
+        "248": {
+            "Satzl\u00e4nge": "00000470"
+        }
+    },
+    {
+        "249": {
+            "Satzl\u00e4nge": "00000209"
+        }
+    },
+    {
+        "250": {
+            "Satzl\u00e4nge": "00000345"
+        }
+    },
+    {
+        "251": {
+            "Satzl\u00e4nge": "00000185"
+        }
+    },
+    {
+        "252": {
+            "Satzl\u00e4nge": "00000180"
+        }
+    },
+    {
+        "253": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "254": {
+            "Satzl\u00e4nge": "00000312"
+        }
+    },
+    {
+        "255": {
+            "Satzl\u00e4nge": "00000180"
+        }
+    },
+    {
+        "256": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "257": {
+            "Satzl\u00e4nge": "00000317"
+        }
+    },
+    {
+        "258": {
+            "Satzl\u00e4nge": "00000243"
+        }
+    },
+    {
+        "259": {
+            "Satzl\u00e4nge": "00000297"
+        }
+    },
+    {
+        "260": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "261": {
+            "Satzl\u00e4nge": "00000168"
+        }
+    },
+    {
+        "262": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "263": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "264": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "265": {
+            "Satzl\u00e4nge": "00000179"
+        }
+    },
+    {
+        "266": {
+            "Satzl\u00e4nge": "00000362"
+        }
+    },
+    {
+        "267": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "268": {
+            "Satzl\u00e4nge": "00000173"
+        }
+    },
+    {
+        "269": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "270": {
+            "Satzl\u00e4nge": "00000287"
+        }
+    },
+    {
+        "271": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "272": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "273": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "274": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "275": {
+            "Satzl\u00e4nge": "00000205"
+        }
+    },
+    {
+        "276": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "277": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "278": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "279": {
+            "Satzl\u00e4nge": "00000230"
+        }
+    },
+    {
+        "280": {
+            "Satzl\u00e4nge": "00000171"
+        }
+    },
+    {
+        "281": {
+            "Satzl\u00e4nge": "00000204"
+        }
+    },
+    {
+        "282": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "283": {
+            "Satzl\u00e4nge": "00000271"
+        }
+    },
+    {
+        "284": {
+            "Satzl\u00e4nge": "00000189"
+        }
+    },
+    {
+        "285": {
+            "Satzl\u00e4nge": "00000432"
+        }
+    },
+    {
+        "286": {
+            "Satzl\u00e4nge": "00000383"
+        }
+    },
+    {
+        "287": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "288": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "289": {
+            "Satzl\u00e4nge": "00000227"
+        }
+    },
+    {
+        "290": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "291": {
+            "Satzl\u00e4nge": "00000348"
+        }
+    },
+    {
+        "292": {
+            "Satzl\u00e4nge": "00000356"
+        }
+    },
+    {
+        "293": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "294": {
+            "Satzl\u00e4nge": "00000240"
+        }
+    },
+    {
+        "295": {
+            "Satzl\u00e4nge": "00000255"
+        }
+    },
+    {
+        "296": {
+            "Satzl\u00e4nge": "00000334"
+        }
+    },
+    {
+        "297": {
+            "Satzl\u00e4nge": "00000223"
+        }
+    },
+    {
+        "298": {
+            "Satzl\u00e4nge": "00000239"
+        }
+    },
+    {
+        "299": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "300": {
+            "Satzl\u00e4nge": "00000478"
+        }
+    },
+    {
+        "301": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "302": {
+            "Satzl\u00e4nge": "00000331"
+        }
+    },
+    {
+        "303": {
+            "Satzl\u00e4nge": "00000402"
+        }
+    },
+    {
+        "304": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "305": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "306": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "307": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "308": {
+            "Satzl\u00e4nge": "00000240"
+        }
+    },
+    {
+        "309": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "310": {
+            "Satzl\u00e4nge": "00000235"
+        }
+    },
+    {
+        "311": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "312": {
+            "Satzl\u00e4nge": "00000258"
+        }
+    },
+    {
+        "313": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "314": {
+            "Satzl\u00e4nge": "00000296"
+        }
+    },
+    {
+        "315": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "316": {
+            "Satzl\u00e4nge": "00000348"
+        }
+    },
+    {
+        "317": {
+            "Satzl\u00e4nge": "00000178"
+        }
+    },
+    {
+        "318": {
+            "Satzl\u00e4nge": "00000178"
+        }
+    },
+    {
+        "319": {
+            "Satzl\u00e4nge": "00000186"
+        }
+    },
+    {
+        "320": {
+            "Satzl\u00e4nge": "00000171"
+        }
+    },
+    {
+        "321": {
+            "Satzl\u00e4nge": "00000182"
+        }
+    },
+    {
+        "322": {
+            "Satzl\u00e4nge": "00000229"
+        }
+    },
+    {
+        "323": {
+            "Satzl\u00e4nge": "00000227"
+        }
+    },
+    {
+        "324": {
+            "Satzl\u00e4nge": "00000217"
+        }
+    },
+    {
+        "325": {
+            "Satzl\u00e4nge": "00000254"
+        }
+    },
+    {
+        "326": {
+            "Satzl\u00e4nge": "00000169"
+        }
+    },
+    {
+        "327": {
+            "Satzl\u00e4nge": "00000315"
+        }
+    },
+    {
+        "328": {
+            "Satzl\u00e4nge": "00000163"
+        }
+    },
+    {
+        "329": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "330": {
+            "Satzl\u00e4nge": "00000278"
+        }
+    },
+    {
+        "331": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "332": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "333": {
+            "Satzl\u00e4nge": "00000186"
+        }
+    },
+    {
+        "334": {
+            "Satzl\u00e4nge": "00000344"
+        }
+    },
+    {
+        "335": {
+            "Satzl\u00e4nge": "00000253"
+        }
+    },
+    {
+        "336": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "337": {
+            "Satzl\u00e4nge": "00000325"
+        }
+    },
+    {
+        "338": {
+            "Satzl\u00e4nge": "00000248"
+        }
+    },
+    {
+        "339": {
+            "Satzl\u00e4nge": "00000390"
+        }
+    },
+    {
+        "340": {
+            "Satzl\u00e4nge": "00000253"
+        }
+    },
+    {
+        "341": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "342": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "343": {
+            "Satzl\u00e4nge": "00000247"
+        }
+    },
+    {
+        "344": {
+            "Satzl\u00e4nge": "00000255"
+        }
+    },
+    {
+        "345": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "346": {
+            "Satzl\u00e4nge": "00000296"
+        }
+    },
+    {
+        "347": {
+            "Satzl\u00e4nge": "00000353"
+        }
+    },
+    {
+        "348": {
+            "Satzl\u00e4nge": "00000273"
+        }
+    },
+    {
+        "349": {
+            "Satzl\u00e4nge": "00000240"
+        }
+    },
+    {
+        "350": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "351": {
+            "Satzl\u00e4nge": "00000184"
+        }
+    },
+    {
+        "352": {
+            "Satzl\u00e4nge": "00000291"
+        }
+    },
+    {
+        "353": {
+            "Satzl\u00e4nge": "00000183"
+        }
+    },
+    {
+        "354": {
+            "Satzl\u00e4nge": "00000277"
+        }
+    },
+    {
+        "355": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "356": {
+            "Satzl\u00e4nge": "00000287"
+        }
+    },
+    {
+        "357": {
+            "Satzl\u00e4nge": "00000189"
+        }
+    },
+    {
+        "358": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "359": {
+            "Satzl\u00e4nge": "00000178"
+        }
+    },
+    {
+        "360": {
+            "Satzl\u00e4nge": "00000347"
+        }
+    },
+    {
+        "361": {
+            "Satzl\u00e4nge": "00000379"
+        }
+    },
+    {
+        "362": {
+            "Satzl\u00e4nge": "00000251"
+        }
+    },
+    {
+        "363": {
+            "Satzl\u00e4nge": "00000169"
+        }
+    },
+    {
+        "364": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "365": {
+            "Satzl\u00e4nge": "00000343"
+        }
+    },
+    {
+        "366": {
+            "Satzl\u00e4nge": "00000330"
+        }
+    },
+    {
+        "367": {
+            "Satzl\u00e4nge": "00000364"
+        }
+    },
+    {
+        "368": {
+            "Satzl\u00e4nge": "00000348"
+        }
+    },
+    {
+        "369": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "370": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "371": {
+            "Satzl\u00e4nge": "00000273"
+        }
+    },
+    {
+        "372": {
+            "Satzl\u00e4nge": "00000326"
+        }
+    },
+    {
+        "373": {
+            "Satzl\u00e4nge": "00000223"
+        }
+    },
+    {
+        "374": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "375": {
+            "Satzl\u00e4nge": "00000348"
+        }
+    },
+    {
+        "376": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "377": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "378": {
+            "Satzl\u00e4nge": "00000168"
+        }
+    },
+    {
+        "379": {
+            "Satzl\u00e4nge": "00000186"
+        }
+    },
+    {
+        "380": {
+            "Satzl\u00e4nge": "00000232"
+        }
+    },
+    {
+        "381": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "382": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "383": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "384": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "385": {
+            "Satzl\u00e4nge": "00000312"
+        }
+    },
+    {
+        "386": {
+            "Satzl\u00e4nge": "00000229"
+        }
+    },
+    {
+        "387": {
+            "Satzl\u00e4nge": "00000185"
+        }
+    },
+    {
+        "388": {
+            "Satzl\u00e4nge": "00000183"
+        }
+    },
+    {
+        "389": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "390": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "391": {
+            "Satzl\u00e4nge": "00000174"
+        }
+    },
+    {
+        "392": {
+            "Satzl\u00e4nge": "00000269"
+        }
+    },
+    {
+        "393": {
+            "Satzl\u00e4nge": "00000335"
+        }
+    },
+    {
+        "394": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "395": {
+            "Satzl\u00e4nge": "00000171"
+        }
+    },
+    {
+        "396": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "397": {
+            "Satzl\u00e4nge": "00000175"
+        }
+    },
+    {
+        "398": {
+            "Satzl\u00e4nge": "00000321"
+        }
+    },
+    {
+        "399": {
+            "Satzl\u00e4nge": "00000173"
+        }
+    },
+    {
+        "400": {
+            "Satzl\u00e4nge": "00000255"
+        }
+    },
+    {
+        "401": {
+            "Satzl\u00e4nge": "00000345"
+        }
+    },
+    {
+        "402": {
+            "Satzl\u00e4nge": "00000446"
+        }
+    },
+    {
+        "403": {
+            "Satzl\u00e4nge": "00000306"
+        }
+    },
+    {
+        "404": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "405": {
+            "Satzl\u00e4nge": "00000219"
+        }
+    },
+    {
+        "406": {
+            "Satzl\u00e4nge": "00000261"
+        }
+    },
+    {
+        "407": {
+            "Satzl\u00e4nge": "00000327"
+        }
+    },
+    {
+        "408": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "409": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "410": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "411": {
+            "Satzl\u00e4nge": "00000173"
+        }
+    },
+    {
+        "412": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "413": {
+            "Satzl\u00e4nge": "00000258"
+        }
+    },
+    {
+        "414": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "415": {
+            "Satzl\u00e4nge": "00000177"
+        }
+    },
+    {
+        "416": {
+            "Satzl\u00e4nge": "00000325"
+        }
+    },
+    {
+        "417": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "418": {
+            "Satzl\u00e4nge": "00000323"
+        }
+    },
+    {
+        "419": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "420": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "421": {
+            "Satzl\u00e4nge": "00000252"
+        }
+    },
+    {
+        "422": {
+            "Satzl\u00e4nge": "00000291"
+        }
+    },
+    {
+        "423": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "424": {
+            "Satzl\u00e4nge": "00000219"
+        }
+    },
+    {
+        "425": {
+            "Satzl\u00e4nge": "00000235"
+        }
+    },
+    {
+        "426": {
+            "Satzl\u00e4nge": "00000239"
+        }
+    },
+    {
+        "427": {
+            "Satzl\u00e4nge": "00000179"
+        }
+    },
+    {
+        "428": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "429": {
+            "Satzl\u00e4nge": "00000297"
+        }
+    },
+    {
+        "430": {
+            "Satzl\u00e4nge": "00000228"
+        }
+    },
+    {
+        "431": {
+            "Satzl\u00e4nge": "00000166"
+        }
+    },
+    {
+        "432": {
+            "Satzl\u00e4nge": "00000206"
+        }
+    },
+    {
+        "433": {
+            "Satzl\u00e4nge": "00000205"
+        }
+    },
+    {
+        "434": {
+            "Satzl\u00e4nge": "00000265"
+        }
+    },
+    {
+        "435": {
+            "Satzl\u00e4nge": "00000456"
+        }
+    },
+    {
+        "436": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "437": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "438": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "439": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "440": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "441": {
+            "Satzl\u00e4nge": "00000285"
+        }
+    },
+    {
+        "442": {
+            "Satzl\u00e4nge": "00000350"
+        }
+    },
+    {
+        "443": {
+            "Satzl\u00e4nge": "00000268"
+        }
+    },
+    {
+        "444": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "445": {
+            "Satzl\u00e4nge": "00000217"
+        }
+    },
+    {
+        "446": {
+            "Satzl\u00e4nge": "00000232"
+        }
+    },
+    {
+        "447": {
+            "Satzl\u00e4nge": "00000328"
+        }
+    },
+    {
+        "448": {
+            "Satzl\u00e4nge": "00000233"
+        }
+    },
+    {
+        "449": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "450": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "451": {
+            "Satzl\u00e4nge": "00000350"
+        }
+    },
+    {
+        "452": {
+            "Satzl\u00e4nge": "00000278"
+        }
+    },
+    {
+        "453": {
+            "Satzl\u00e4nge": "00000209"
+        }
+    },
+    {
+        "454": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "455": {
+            "Satzl\u00e4nge": "00000238"
+        }
+    },
+    {
+        "456": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "457": {
+            "Satzl\u00e4nge": "00000354"
+        }
+    },
+    {
+        "458": {
+            "Satzl\u00e4nge": "00000346"
+        }
+    },
+    {
+        "459": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "460": {
+            "Satzl\u00e4nge": "00000184"
+        }
+    },
+    {
+        "461": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "462": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "463": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "464": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "465": {
+            "Satzl\u00e4nge": "00000177"
+        }
+    },
+    {
+        "466": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "467": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "468": {
+            "Satzl\u00e4nge": "00000281"
+        }
+    },
+    {
+        "469": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "470": {
+            "Satzl\u00e4nge": "00000295"
+        }
+    },
+    {
+        "471": {
+            "Satzl\u00e4nge": "00000261"
+        }
+    },
+    {
+        "472": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "473": {
+            "Satzl\u00e4nge": "00000171"
+        }
+    },
+    {
+        "474": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "475": {
+            "Satzl\u00e4nge": "00000227"
+        }
+    },
+    {
+        "476": {
+            "Satzl\u00e4nge": "00000265"
+        }
+    },
+    {
+        "477": {
+            "Satzl\u00e4nge": "00000322"
+        }
+    },
+    {
+        "478": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "479": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "480": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "481": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "482": {
+            "Satzl\u00e4nge": "00000173"
+        }
+    },
+    {
+        "483": {
+            "Satzl\u00e4nge": "00000301"
+        }
+    },
+    {
+        "484": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "485": {
+            "Satzl\u00e4nge": "00000228"
+        }
+    },
+    {
+        "486": {
+            "Satzl\u00e4nge": "00000302"
+        }
+    },
+    {
+        "487": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "488": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "489": {
+            "Satzl\u00e4nge": "00000264"
+        }
+    },
+    {
+        "490": {
+            "Satzl\u00e4nge": "00000339"
+        }
+    },
+    {
+        "491": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "492": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "493": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "494": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "495": {
+            "Satzl\u00e4nge": "00000184"
+        }
+    },
+    {
+        "496": {
+            "Satzl\u00e4nge": "00000453"
+        }
+    },
+    {
+        "497": {
+            "Satzl\u00e4nge": "00000352"
+        }
+    },
+    {
+        "498": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "499": {
+            "Satzl\u00e4nge": "00000319"
+        }
+    },
+    {
+        "500": {
+            "Satzl\u00e4nge": "00000254"
+        }
+    },
+    {
+        "501": {
+            "Satzl\u00e4nge": "00000276"
+        }
+    },
+    {
+        "502": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "503": {
+            "Satzl\u00e4nge": "00000183"
+        }
+    },
+    {
+        "504": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "505": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "506": {
+            "Satzl\u00e4nge": "00000337"
+        }
+    },
+    {
+        "507": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "508": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "509": {
+            "Satzl\u00e4nge": "00000267"
+        }
+    },
+    {
+        "510": {
+            "Satzl\u00e4nge": "00000209"
+        }
+    },
+    {
+        "511": {
+            "Satzl\u00e4nge": "00000230"
+        }
+    },
+    {
+        "512": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "513": {
+            "Satzl\u00e4nge": "00000236"
+        }
+    },
+    {
+        "514": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "515": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "516": {
+            "Satzl\u00e4nge": "00000325"
+        }
+    },
+    {
+        "517": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "518": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "519": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "520": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "521": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "522": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "523": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "524": {
+            "Satzl\u00e4nge": "00000204"
+        }
+    },
+    {
+        "525": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "526": {
+            "Satzl\u00e4nge": "00000308"
+        }
+    },
+    {
+        "527": {
+            "Satzl\u00e4nge": "00000232"
+        }
+    },
+    {
+        "528": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "529": {
+            "Satzl\u00e4nge": "00000325"
+        }
+    },
+    {
+        "530": {
+            "Satzl\u00e4nge": "00000222"
+        }
+    },
+    {
+        "531": {
+            "Satzl\u00e4nge": "00000300"
+        }
+    },
+    {
+        "532": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "533": {
+            "Satzl\u00e4nge": "00000431"
+        }
+    },
+    {
+        "534": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "535": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "536": {
+            "Satzl\u00e4nge": "00000205"
+        }
+    },
+    {
+        "537": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "538": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "539": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "540": {
+            "Satzl\u00e4nge": "00000230"
+        }
+    },
+    {
+        "541": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "542": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "543": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "544": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "545": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "546": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "547": {
+            "Satzl\u00e4nge": "00000239"
+        }
+    },
+    {
+        "548": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "549": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "550": {
+            "Satzl\u00e4nge": "00000257"
+        }
+    },
+    {
+        "551": {
+            "Satzl\u00e4nge": "00000338"
+        }
+    },
+    {
+        "552": {
+            "Satzl\u00e4nge": "00000277"
+        }
+    },
+    {
+        "553": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "554": {
+            "Satzl\u00e4nge": "00000410"
+        }
+    },
+    {
+        "555": {
+            "Satzl\u00e4nge": "00000243"
+        }
+    },
+    {
+        "556": {
+            "Satzl\u00e4nge": "00000217"
+        }
+    },
+    {
+        "557": {
+            "Satzl\u00e4nge": "00000236"
+        }
+    },
+    {
+        "558": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "559": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "560": {
+            "Satzl\u00e4nge": "00000316"
+        }
+    },
+    {
+        "561": {
+            "Satzl\u00e4nge": "00000348"
+        }
+    },
+    {
+        "562": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "563": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "564": {
+            "Satzl\u00e4nge": "00000173"
+        }
+    },
+    {
+        "565": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "566": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "567": {
+            "Satzl\u00e4nge": "00000236"
+        }
+    },
+    {
+        "568": {
+            "Satzl\u00e4nge": "00000405"
+        }
+    },
+    {
+        "569": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "570": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "571": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "572": {
+            "Satzl\u00e4nge": "00000262"
+        }
+    },
+    {
+        "573": {
+            "Satzl\u00e4nge": "00000317"
+        }
+    },
+    {
+        "574": {
+            "Satzl\u00e4nge": "00000296"
+        }
+    },
+    {
+        "575": {
+            "Satzl\u00e4nge": "00000239"
+        }
+    },
+    {
+        "576": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "577": {
+            "Satzl\u00e4nge": "00000205"
+        }
+    },
+    {
+        "578": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "579": {
+            "Satzl\u00e4nge": "00000357"
+        }
+    },
+    {
+        "580": {
+            "Satzl\u00e4nge": "00000385"
+        }
+    },
+    {
+        "581": {
+            "Satzl\u00e4nge": "00000182"
+        }
+    },
+    {
+        "582": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "583": {
+            "Satzl\u00e4nge": "00000318"
+        }
+    },
+    {
+        "584": {
+            "Satzl\u00e4nge": "00000209"
+        }
+    },
+    {
+        "585": {
+            "Satzl\u00e4nge": "00000217"
+        }
+    },
+    {
+        "586": {
+            "Satzl\u00e4nge": "00000180"
+        }
+    },
+    {
+        "587": {
+            "Satzl\u00e4nge": "00000223"
+        }
+    },
+    {
+        "588": {
+            "Satzl\u00e4nge": "00000371"
+        }
+    },
+    {
+        "589": {
+            "Satzl\u00e4nge": "00000290"
+        }
+    },
+    {
+        "590": {
+            "Satzl\u00e4nge": "00000241"
+        }
+    },
+    {
+        "591": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "592": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "593": {
+            "Satzl\u00e4nge": "00000232"
+        }
+    },
+    {
+        "594": {
+            "Satzl\u00e4nge": "00000167"
+        }
+    },
+    {
+        "595": {
+            "Satzl\u00e4nge": "00000295"
+        }
+    },
+    {
+        "596": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "597": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "598": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "599": {
+            "Satzl\u00e4nge": "00000245"
+        }
+    },
+    {
+        "600": {
+            "Satzl\u00e4nge": "00000225"
+        }
+    },
+    {
+        "601": {
+            "Satzl\u00e4nge": "00000241"
+        }
+    },
+    {
+        "602": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "603": {
+            "Satzl\u00e4nge": "00000334"
+        }
+    },
+    {
+        "604": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "605": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "606": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "607": {
+            "Satzl\u00e4nge": "00000238"
+        }
+    },
+    {
+        "608": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "609": {
+            "Satzl\u00e4nge": "00000476"
+        }
+    },
+    {
+        "610": {
+            "Satzl\u00e4nge": "00000341"
+        }
+    },
+    {
+        "611": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "612": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "613": {
+            "Satzl\u00e4nge": "00000172"
+        }
+    },
+    {
+        "614": {
+            "Satzl\u00e4nge": "00000271"
+        }
+    },
+    {
+        "615": {
+            "Satzl\u00e4nge": "00000333"
+        }
+    },
+    {
+        "616": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "617": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "618": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "619": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "620": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "621": {
+            "Satzl\u00e4nge": "00000225"
+        }
+    },
+    {
+        "622": {
+            "Satzl\u00e4nge": "00000238"
+        }
+    },
+    {
+        "623": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "624": {
+            "Satzl\u00e4nge": "00000341"
+        }
+    },
+    {
+        "625": {
+            "Satzl\u00e4nge": "00000174"
+        }
+    },
+    {
+        "626": {
+            "Satzl\u00e4nge": "00000189"
+        }
+    },
+    {
+        "627": {
+            "Satzl\u00e4nge": "00000175"
+        }
+    },
+    {
+        "628": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "629": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "630": {
+            "Satzl\u00e4nge": "00000345"
+        }
+    },
+    {
+        "631": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "632": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "633": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "634": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "635": {
+            "Satzl\u00e4nge": "00000222"
+        }
+    },
+    {
+        "636": {
+            "Satzl\u00e4nge": "00000368"
+        }
+    },
+    {
+        "637": {
+            "Satzl\u00e4nge": "00000378"
+        }
+    },
+    {
+        "638": {
+            "Satzl\u00e4nge": "00000271"
+        }
+    },
+    {
+        "639": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "640": {
+            "Satzl\u00e4nge": "00000251"
+        }
+    },
+    {
+        "641": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "642": {
+            "Satzl\u00e4nge": "00000222"
+        }
+    },
+    {
+        "643": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "644": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "645": {
+            "Satzl\u00e4nge": "00000244"
+        }
+    },
+    {
+        "646": {
+            "Satzl\u00e4nge": "00000188"
+        }
+    },
+    {
+        "647": {
+            "Satzl\u00e4nge": "00000180"
+        }
+    },
+    {
+        "648": {
+            "Satzl\u00e4nge": "00000175"
+        }
+    },
+    {
+        "649": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "650": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "651": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "652": {
+            "Satzl\u00e4nge": "00000225"
+        }
+    },
+    {
+        "653": {
+            "Satzl\u00e4nge": "00000275"
+        }
+    },
+    {
+        "654": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "655": {
+            "Satzl\u00e4nge": "00000189"
+        }
+    },
+    {
+        "656": {
+            "Satzl\u00e4nge": "00000206"
+        }
+    },
+    {
+        "657": {
+            "Satzl\u00e4nge": "00000188"
+        }
+    },
+    {
+        "658": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "659": {
+            "Satzl\u00e4nge": "00000205"
+        }
+    },
+    {
+        "660": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "661": {
+            "Satzl\u00e4nge": "00000228"
+        }
+    },
+    {
+        "662": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "663": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "664": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "665": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "666": {
+            "Satzl\u00e4nge": "00000355"
+        }
+    },
+    {
+        "667": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "668": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "669": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "670": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "671": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "672": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "673": {
+            "Satzl\u00e4nge": "00000228"
+        }
+    },
+    {
+        "674": {
+            "Satzl\u00e4nge": "00000320"
+        }
+    },
+    {
+        "675": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "676": {
+            "Satzl\u00e4nge": "00000206"
+        }
+    },
+    {
+        "677": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "678": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "679": {
+            "Satzl\u00e4nge": "00000682"
+        }
+    },
+    {
+        "680": {
+            "Satzl\u00e4nge": "00000174"
+        }
+    },
+    {
+        "681": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "682": {
+            "Satzl\u00e4nge": "00000297"
+        }
+    },
+    {
+        "683": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "684": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "685": {
+            "Satzl\u00e4nge": "00000325"
+        }
+    },
+    {
+        "686": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "687": {
+            "Satzl\u00e4nge": "00000243"
+        }
+    },
+    {
+        "688": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "689": {
+            "Satzl\u00e4nge": "00000170"
+        }
+    },
+    {
+        "690": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "691": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "692": {
+            "Satzl\u00e4nge": "00000186"
+        }
+    },
+    {
+        "693": {
+            "Satzl\u00e4nge": "00000169"
+        }
+    },
+    {
+        "694": {
+            "Satzl\u00e4nge": "00000186"
+        }
+    },
+    {
+        "695": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "696": {
+            "Satzl\u00e4nge": "00000246"
+        }
+    },
+    {
+        "697": {
+            "Satzl\u00e4nge": "00000350"
+        }
+    },
+    {
+        "698": {
+            "Satzl\u00e4nge": "00000184"
+        }
+    },
+    {
+        "699": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "700": {
+            "Satzl\u00e4nge": "00000251"
+        }
+    },
+    {
+        "701": {
+            "Satzl\u00e4nge": "00000168"
+        }
+    },
+    {
+        "702": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "703": {
+            "Satzl\u00e4nge": "00000345"
+        }
+    },
+    {
+        "704": {
+            "Satzl\u00e4nge": "00000299"
+        }
+    },
+    {
+        "705": {
+            "Satzl\u00e4nge": "00000254"
+        }
+    },
+    {
+        "706": {
+            "Satzl\u00e4nge": "00000383"
+        }
+    },
+    {
+        "707": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "708": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "709": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "710": {
+            "Satzl\u00e4nge": "00000245"
+        }
+    },
+    {
+        "711": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "712": {
+            "Satzl\u00e4nge": "00000205"
+        }
+    },
+    {
+        "713": {
+            "Satzl\u00e4nge": "00000172"
+        }
+    },
+    {
+        "714": {
+            "Satzl\u00e4nge": "00000276"
+        }
+    },
+    {
+        "715": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "716": {
+            "Satzl\u00e4nge": "00000189"
+        }
+    },
+    {
+        "717": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "718": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "719": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "720": {
+            "Satzl\u00e4nge": "00000311"
+        }
+    },
+    {
+        "721": {
+            "Satzl\u00e4nge": "00000183"
+        }
+    },
+    {
+        "722": {
+            "Satzl\u00e4nge": "00000261"
+        }
+    },
+    {
+        "723": {
+            "Satzl\u00e4nge": "00000336"
+        }
+    },
+    {
+        "724": {
+            "Satzl\u00e4nge": "00000178"
+        }
+    },
+    {
+        "725": {
+            "Satzl\u00e4nge": "00000285"
+        }
+    },
+    {
+        "726": {
+            "Satzl\u00e4nge": "00000607"
+        }
+    },
+    {
+        "727": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "728": {
+            "Satzl\u00e4nge": "00000322"
+        }
+    },
+    {
+        "729": {
+            "Satzl\u00e4nge": "00000250"
+        }
+    },
+    {
+        "730": {
+            "Satzl\u00e4nge": "00000188"
+        }
+    },
+    {
+        "731": {
+            "Satzl\u00e4nge": "00000174"
+        }
+    },
+    {
+        "732": {
+            "Satzl\u00e4nge": "00000310"
+        }
+    },
+    {
+        "733": {
+            "Satzl\u00e4nge": "00000398"
+        }
+    },
+    {
+        "734": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "735": {
+            "Satzl\u00e4nge": "00000188"
+        }
+    },
+    {
+        "736": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "737": {
+            "Satzl\u00e4nge": "00000332"
+        }
+    },
+    {
+        "738": {
+            "Satzl\u00e4nge": "00000206"
+        }
+    },
+    {
+        "739": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "740": {
+            "Satzl\u00e4nge": "00000225"
+        }
+    },
+    {
+        "741": {
+            "Satzl\u00e4nge": "00000356"
+        }
+    },
+    {
+        "742": {
+            "Satzl\u00e4nge": "00000227"
+        }
+    },
+    {
+        "743": {
+            "Satzl\u00e4nge": "00000188"
+        }
+    },
+    {
+        "744": {
+            "Satzl\u00e4nge": "00000219"
+        }
+    },
+    {
+        "745": {
+            "Satzl\u00e4nge": "00000183"
+        }
+    },
+    {
+        "746": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "747": {
+            "Satzl\u00e4nge": "00000219"
+        }
+    },
+    {
+        "748": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "749": {
+            "Satzl\u00e4nge": "00000204"
+        }
+    },
+    {
+        "750": {
+            "Satzl\u00e4nge": "00000167"
+        }
+    },
+    {
+        "751": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "752": {
+            "Satzl\u00e4nge": "00000256"
+        }
+    },
+    {
+        "753": {
+            "Satzl\u00e4nge": "00000229"
+        }
+    },
+    {
+        "754": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "755": {
+            "Satzl\u00e4nge": "00000223"
+        }
+    },
+    {
+        "756": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "757": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "758": {
+            "Satzl\u00e4nge": "00000326"
+        }
+    },
+    {
+        "759": {
+            "Satzl\u00e4nge": "00000172"
+        }
+    },
+    {
+        "760": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "761": {
+            "Satzl\u00e4nge": "00000251"
+        }
+    },
+    {
+        "762": {
+            "Satzl\u00e4nge": "00000185"
+        }
+    },
+    {
+        "763": {
+            "Satzl\u00e4nge": "00000298"
+        }
+    },
+    {
+        "764": {
+            "Satzl\u00e4nge": "00000280"
+        }
+    },
+    {
+        "765": {
+            "Satzl\u00e4nge": "00000330"
+        }
+    },
+    {
+        "766": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "767": {
+            "Satzl\u00e4nge": "00000188"
+        }
+    },
+    {
+        "768": {
+            "Satzl\u00e4nge": "00000454"
+        }
+    },
+    {
+        "769": {
+            "Satzl\u00e4nge": "00000166"
+        }
+    },
+    {
+        "770": {
+            "Satzl\u00e4nge": "00000181"
+        }
+    },
+    {
+        "771": {
+            "Satzl\u00e4nge": "00000175"
+        }
+    },
+    {
+        "772": {
+            "Satzl\u00e4nge": "00000256"
+        }
+    },
+    {
+        "773": {
+            "Satzl\u00e4nge": "00000269"
+        }
+    },
+    {
+        "774": {
+            "Satzl\u00e4nge": "00000177"
+        }
+    },
+    {
+        "775": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "776": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "777": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "778": {
+            "Satzl\u00e4nge": "00000175"
+        }
+    },
+    {
+        "779": {
+            "Satzl\u00e4nge": "00000210"
+        }
+    },
+    {
+        "780": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "781": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "782": {
+            "Satzl\u00e4nge": "00000222"
+        }
+    },
+    {
+        "783": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "784": {
+            "Satzl\u00e4nge": "00000167"
+        }
+    },
+    {
+        "785": {
+            "Satzl\u00e4nge": "00000234"
+        }
+    },
+    {
+        "786": {
+            "Satzl\u00e4nge": "00000179"
+        }
+    },
+    {
+        "787": {
+            "Satzl\u00e4nge": "00000217"
+        }
+    },
+    {
+        "788": {
+            "Satzl\u00e4nge": "00000330"
+        }
+    },
+    {
+        "789": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "790": {
+            "Satzl\u00e4nge": "00000210"
+        }
+    },
+    {
+        "791": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "792": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "793": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "794": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "795": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "796": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "797": {
+            "Satzl\u00e4nge": "00000266"
+        }
+    },
+    {
+        "798": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "799": {
+            "Satzl\u00e4nge": "00000229"
+        }
+    },
+    {
+        "800": {
+            "Satzl\u00e4nge": "00000337"
+        }
+    },
+    {
+        "801": {
+            "Satzl\u00e4nge": "00000274"
+        }
+    },
+    {
+        "802": {
+            "Satzl\u00e4nge": "00000168"
+        }
+    },
+    {
+        "803": {
+            "Satzl\u00e4nge": "00000217"
+        }
+    },
+    {
+        "804": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "805": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "806": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "807": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "808": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "809": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "810": {
+            "Satzl\u00e4nge": "00000277"
+        }
+    },
+    {
+        "811": {
+            "Satzl\u00e4nge": "00000265"
+        }
+    },
+    {
+        "812": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "813": {
+            "Satzl\u00e4nge": "00000275"
+        }
+    },
+    {
+        "814": {
+            "Satzl\u00e4nge": "00000232"
+        }
+    },
+    {
+        "815": {
+            "Satzl\u00e4nge": "00000355"
+        }
+    },
+    {
+        "816": {
+            "Satzl\u00e4nge": "00000403"
+        }
+    },
+    {
+        "817": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "818": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "819": {
+            "Satzl\u00e4nge": "00000171"
+        }
+    },
+    {
+        "820": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "821": {
+            "Satzl\u00e4nge": "00000188"
+        }
+    },
+    {
+        "822": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "823": {
+            "Satzl\u00e4nge": "00000302"
+        }
+    },
+    {
+        "824": {
+            "Satzl\u00e4nge": "00000179"
+        }
+    },
+    {
+        "825": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "826": {
+            "Satzl\u00e4nge": "00000206"
+        }
+    },
+    {
+        "827": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "828": {
+            "Satzl\u00e4nge": "00000245"
+        }
+    },
+    {
+        "829": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "830": {
+            "Satzl\u00e4nge": "00000173"
+        }
+    },
+    {
+        "831": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "832": {
+            "Satzl\u00e4nge": "00000227"
+        }
+    },
+    {
+        "833": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "834": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "835": {
+            "Satzl\u00e4nge": "00000317"
+        }
+    },
+    {
+        "836": {
+            "Satzl\u00e4nge": "00000167"
+        }
+    },
+    {
+        "837": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "838": {
+            "Satzl\u00e4nge": "00000172"
+        }
+    },
+    {
+        "839": {
+            "Satzl\u00e4nge": "00000269"
+        }
+    },
+    {
+        "840": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "841": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "842": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "843": {
+            "Satzl\u00e4nge": "00000238"
+        }
+    },
+    {
+        "844": {
+            "Satzl\u00e4nge": "00000233"
+        }
+    },
+    {
+        "845": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "846": {
+            "Satzl\u00e4nge": "00000318"
+        }
+    },
+    {
+        "847": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "848": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "849": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "850": {
+            "Satzl\u00e4nge": "00000177"
+        }
+    },
+    {
+        "851": {
+            "Satzl\u00e4nge": "00000233"
+        }
+    },
+    {
+        "852": {
+            "Satzl\u00e4nge": "00000171"
+        }
+    },
+    {
+        "853": {
+            "Satzl\u00e4nge": "00000175"
+        }
+    },
+    {
+        "854": {
+            "Satzl\u00e4nge": "00000209"
+        }
+    },
+    {
+        "855": {
+            "Satzl\u00e4nge": "00000307"
+        }
+    },
+    {
+        "856": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "857": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "858": {
+            "Satzl\u00e4nge": "00000205"
+        }
+    },
+    {
+        "859": {
+            "Satzl\u00e4nge": "00000171"
+        }
+    },
+    {
+        "860": {
+            "Satzl\u00e4nge": "00000177"
+        }
+    },
+    {
+        "861": {
+            "Satzl\u00e4nge": "00000217"
+        }
+    },
+    {
+        "862": {
+            "Satzl\u00e4nge": "00000206"
+        }
+    },
+    {
+        "863": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "864": {
+            "Satzl\u00e4nge": "00000171"
+        }
+    },
+    {
+        "865": {
+            "Satzl\u00e4nge": "00000179"
+        }
+    },
+    {
+        "866": {
+            "Satzl\u00e4nge": "00000210"
+        }
+    },
+    {
+        "867": {
+            "Satzl\u00e4nge": "00000248"
+        }
+    },
+    {
+        "868": {
+            "Satzl\u00e4nge": "00000245"
+        }
+    },
+    {
+        "869": {
+            "Satzl\u00e4nge": "00000361"
+        }
+    },
+    {
+        "870": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "871": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "872": {
+            "Satzl\u00e4nge": "00000321"
+        }
+    },
+    {
+        "873": {
+            "Satzl\u00e4nge": "00000239"
+        }
+    },
+    {
+        "874": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "875": {
+            "Satzl\u00e4nge": "00000178"
+        }
+    },
+    {
+        "876": {
+            "Satzl\u00e4nge": "00000238"
+        }
+    },
+    {
+        "877": {
+            "Satzl\u00e4nge": "00000210"
+        }
+    },
+    {
+        "878": {
+            "Satzl\u00e4nge": "00000253"
+        }
+    },
+    {
+        "879": {
+            "Satzl\u00e4nge": "00000324"
+        }
+    },
+    {
+        "880": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "881": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "882": {
+            "Satzl\u00e4nge": "00000227"
+        }
+    },
+    {
+        "883": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "884": {
+            "Satzl\u00e4nge": "00000188"
+        }
+    },
+    {
+        "885": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "886": {
+            "Satzl\u00e4nge": "00000244"
+        }
+    },
+    {
+        "887": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "888": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "889": {
+            "Satzl\u00e4nge": "00000276"
+        }
+    },
+    {
+        "890": {
+            "Satzl\u00e4nge": "00000263"
+        }
+    },
+    {
+        "891": {
+            "Satzl\u00e4nge": "00000276"
+        }
+    },
+    {
+        "892": {
+            "Satzl\u00e4nge": "00000217"
+        }
+    },
+    {
+        "893": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "894": {
+            "Satzl\u00e4nge": "00000204"
+        }
+    },
+    {
+        "895": {
+            "Satzl\u00e4nge": "00000166"
+        }
+    },
+    {
+        "896": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "897": {
+            "Satzl\u00e4nge": "00000200"
+        }
+    },
+    {
+        "898": {
+            "Satzl\u00e4nge": "00000331"
+        }
+    },
+    {
+        "899": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "900": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "901": {
+            "Satzl\u00e4nge": "00000170"
+        }
+    },
+    {
+        "902": {
+            "Satzl\u00e4nge": "00000186"
+        }
+    },
+    {
+        "903": {
+            "Satzl\u00e4nge": "00000311"
+        }
+    },
+    {
+        "904": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "905": {
+            "Satzl\u00e4nge": "00000175"
+        }
+    },
+    {
+        "906": {
+            "Satzl\u00e4nge": "00000351"
+        }
+    },
+    {
+        "907": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "908": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "909": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "910": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "911": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "912": {
+            "Satzl\u00e4nge": "00000167"
+        }
+    },
+    {
+        "913": {
+            "Satzl\u00e4nge": "00000298"
+        }
+    },
+    {
+        "914": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "915": {
+            "Satzl\u00e4nge": "00000221"
+        }
+    },
+    {
+        "916": {
+            "Satzl\u00e4nge": "00000270"
+        }
+    },
+    {
+        "917": {
+            "Satzl\u00e4nge": "00000250"
+        }
+    },
+    {
+        "918": {
+            "Satzl\u00e4nge": "00000220"
+        }
+    },
+    {
+        "919": {
+            "Satzl\u00e4nge": "00000403"
+        }
+    },
+    {
+        "920": {
+            "Satzl\u00e4nge": "00000184"
+        }
+    },
+    {
+        "921": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "922": {
+            "Satzl\u00e4nge": "00000209"
+        }
+    },
+    {
+        "923": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "924": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "925": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "926": {
+            "Satzl\u00e4nge": "00000266"
+        }
+    },
+    {
+        "927": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "928": {
+            "Satzl\u00e4nge": "00000219"
+        }
+    },
+    {
+        "929": {
+            "Satzl\u00e4nge": "00000186"
+        }
+    },
+    {
+        "930": {
+            "Satzl\u00e4nge": "00000214"
+        }
+    },
+    {
+        "931": {
+            "Satzl\u00e4nge": "00000226"
+        }
+    },
+    {
+        "932": {
+            "Satzl\u00e4nge": "00000233"
+        }
+    },
+    {
+        "933": {
+            "Satzl\u00e4nge": "00000209"
+        }
+    },
+    {
+        "934": {
+            "Satzl\u00e4nge": "00000298"
+        }
+    },
+    {
+        "935": {
+            "Satzl\u00e4nge": "00000212"
+        }
+    },
+    {
+        "936": {
+            "Satzl\u00e4nge": "00000207"
+        }
+    },
+    {
+        "937": {
+            "Satzl\u00e4nge": "00000187"
+        }
+    },
+    {
+        "938": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "939": {
+            "Satzl\u00e4nge": "00000254"
+        }
+    },
+    {
+        "940": {
+            "Satzl\u00e4nge": "00000182"
+        }
+    },
+    {
+        "941": {
+            "Satzl\u00e4nge": "00000269"
+        }
+    },
+    {
+        "942": {
+            "Satzl\u00e4nge": "00000231"
+        }
+    },
+    {
+        "943": {
+            "Satzl\u00e4nge": "00000199"
+        }
+    },
+    {
+        "944": {
+            "Satzl\u00e4nge": "00000651"
+        }
+    },
+    {
+        "945": {
+            "Satzl\u00e4nge": "00000334"
+        }
+    },
+    {
+        "946": {
+            "Satzl\u00e4nge": "00000185"
+        }
+    },
+    {
+        "947": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "948": {
+            "Satzl\u00e4nge": "00000590"
+        }
+    },
+    {
+        "949": {
+            "Satzl\u00e4nge": "00000245"
+        }
+    },
+    {
+        "950": {
+            "Satzl\u00e4nge": "00000338"
+        }
+    },
+    {
+        "951": {
+            "Satzl\u00e4nge": "00000327"
+        }
+    },
+    {
+        "952": {
+            "Satzl\u00e4nge": "00000335"
+        }
+    },
+    {
+        "953": {
+            "Satzl\u00e4nge": "00000197"
+        }
+    },
+    {
+        "954": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "955": {
+            "Satzl\u00e4nge": "00000170"
+        }
+    },
+    {
+        "956": {
+            "Satzl\u00e4nge": "00000396"
+        }
+    },
+    {
+        "957": {
+            "Satzl\u00e4nge": "00000176"
+        }
+    },
+    {
+        "958": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "959": {
+            "Satzl\u00e4nge": "00000232"
+        }
+    },
+    {
+        "960": {
+            "Satzl\u00e4nge": "00000341"
+        }
+    },
+    {
+        "961": {
+            "Satzl\u00e4nge": "00000178"
+        }
+    },
+    {
+        "962": {
+            "Satzl\u00e4nge": "00000330"
+        }
+    },
+    {
+        "963": {
+            "Satzl\u00e4nge": "00000203"
+        }
+    },
+    {
+        "964": {
+            "Satzl\u00e4nge": "00000218"
+        }
+    },
+    {
+        "965": {
+            "Satzl\u00e4nge": "00000294"
+        }
+    },
+    {
+        "966": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "967": {
+            "Satzl\u00e4nge": "00000184"
+        }
+    },
+    {
+        "968": {
+            "Satzl\u00e4nge": "00000206"
+        }
+    },
+    {
+        "969": {
+            "Satzl\u00e4nge": "00000170"
+        }
+    },
+    {
+        "970": {
+            "Satzl\u00e4nge": "00000246"
+        }
+    },
+    {
+        "971": {
+            "Satzl\u00e4nge": "00000185"
+        }
+    },
+    {
+        "972": {
+            "Satzl\u00e4nge": "00000190"
+        }
+    },
+    {
+        "973": {
+            "Satzl\u00e4nge": "00000224"
+        }
+    },
+    {
+        "974": {
+            "Satzl\u00e4nge": "00000213"
+        }
+    },
+    {
+        "975": {
+            "Satzl\u00e4nge": "00000235"
+        }
+    },
+    {
+        "976": {
+            "Satzl\u00e4nge": "00000216"
+        }
+    },
+    {
+        "977": {
+            "Satzl\u00e4nge": "00000225"
+        }
+    },
+    {
+        "978": {
+            "Satzl\u00e4nge": "00000189"
+        }
+    },
+    {
+        "979": {
+            "Satzl\u00e4nge": "00000348"
+        }
+    },
+    {
+        "980": {
+            "Satzl\u00e4nge": "00000215"
+        }
+    },
+    {
+        "981": {
+            "Satzl\u00e4nge": "00000233"
+        }
+    },
+    {
+        "982": {
+            "Satzl\u00e4nge": "00000229"
+        }
+    },
+    {
+        "983": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    },
+    {
+        "984": {
+            "Satzl\u00e4nge": "00000198"
+        }
+    },
+    {
+        "985": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "986": {
+            "Satzl\u00e4nge": "00000364"
+        }
+    },
+    {
+        "987": {
+            "Satzl\u00e4nge": "00000464"
+        }
+    },
+    {
+        "988": {
+            "Satzl\u00e4nge": "00000362"
+        }
+    },
+    {
+        "989": {
+            "Satzl\u00e4nge": "00000251"
+        }
+    },
+    {
+        "990": {
+            "Satzl\u00e4nge": "00000205"
+        }
+    },
+    {
+        "991": {
+            "Satzl\u00e4nge": "00000352"
+        }
+    },
+    {
+        "992": {
+            "Satzl\u00e4nge": "00000174"
+        }
+    },
+    {
+        "993": {
+            "Satzl\u00e4nge": "00000173"
+        }
+    },
+    {
+        "994": {
+            "Satzl\u00e4nge": "00000193"
+        }
+    },
+    {
+        "995": {
+            "Satzl\u00e4nge": "00000243"
+        }
+    },
+    {
+        "996": {
+            "Satzl\u00e4nge": "00000202"
+        }
+    },
+    {
+        "997": {
+            "Satzl\u00e4nge": "00000172"
+        }
+    },
+    {
+        "998": {
+            "Satzl\u00e4nge": "00000192"
+        }
+    },
+    {
+        "999": {
+            "Satzl\u00e4nge": "00000235"
+        }
+    },
+    {
+        "1000": {
+            "Satzl\u00e4nge": "00000327"
+        }
+    },
+    {
+        "1001": {
+            "Satzl\u00e4nge": "00000201"
+        }
+    },
+    {
+        "1002": {
+            "Satzl\u00e4nge": "00000211"
+        }
+    },
+    {
+        "1003": {
+            "Satzl\u00e4nge": "00000191"
+        }
+    },
+    {
+        "1004": {
+            "Satzl\u00e4nge": "00000208"
+        }
+    },
+    {
+        "1005": {
+            "Satzl\u00e4nge": "00000195"
+        }
+    },
+    {
+        "1006": {
+            "Satzl\u00e4nge": "00000308"
+        }
+    },
+    {
+        "1007": {
+            "Satzl\u00e4nge": "00000194"
+        }
+    },
+    {
+        "1008": {
+            "Satzl\u00e4nge": "00000177"
+        }
+    },
+    {
+        "1009": {
+            "Satzl\u00e4nge": "00000186"
+        }
+    },
+    {
+        "1010": {
+            "Satzl\u00e4nge": "00000237"
+        }
+    },
+    {
+        "1011": {
+            "Satzl\u00e4nge": "00000196"
+        }
+    }
+]

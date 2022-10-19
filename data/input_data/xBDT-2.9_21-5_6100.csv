@@ -1,0 +1,181 @@
+Feldkenn,Version,Nesting,nest_order,nest_parent,Vorkommen 1,Vorkommen 2,Vorkommen 3,Vorkommen 4,Bezeichnung der Feldinhalte,M/K,Typ,Länge,erlaubte Inhalte / Bedingungen Format,Beispiel / Erläuterung
+8000,,,0,8000,1,,,,Satzidentifikation,M,n,4,6100,Satzart
+8100,,,0,8100,1,,,,Satzlänge,M,n,5...10,,Länge des Satzes
+3000,,,0,3000,1,,,,Patientennummer / -kennung,M,n,var,,
+3001,,,0,3001,1,,,,alphanummerische Patientennr.,K,a,20,falls die Patnr. im Quellsystem Buchstaben enthält,
+3004,,,0,3004,1,,,,Kartentyp,K,n,1,"1=eGK Gen. 1, 2=eGK Gen. 1+, 3=eGK Gen. 3",
+3006,,,0,3006,1,,,,CDM-Version,m,a,5,,5.1.0
+3100,,,0,3100,1,,,,Namenszusatz,K,a,≤30,,von
+3120,≥2.9,,0,3120,1,,,,Vorsatzwort,K,a,≤20,,
+3101,,,0,3101,1,,,,Name,M,a,≤45,,
+3102,,,0,3102,1,,,,Vorname,M,a,≤45,,
+3103,,,0,3103,1,,,,Geburtsdatum,M,d,8,,
+3104,,,0,3104,1,,,,Titel,K,a,≤30,,
+3105,,,0,3105,1,,,,Versichertennummer,m,n,≤12,,
+3119,,,0,3119,1,,,,Versichertennummer eGK,m,a,10,annnnnnnnn                                          ,X123456789
+3106,,,0,3106,1,,,,Wohnort,K,a,≤70,,PLZ Ort
+3107,,,0,3107,1,,,,Straße,K,a,≤70,,
+3109,≥2.9,,0,3109,1,,,,Hausnummer,K,a,≤10,,
+3115,≥2.9,,0,3115,1,,,,Anschriftenzusatz,K,a,≤40,,
+3112,,,0,3112,1,,,,PLZ des Pat.,K,a,≤10,,
+3114,,,0,3114,1,,,,Wohnsitz-Ländercode,K,a,≤3,,
+3113,,,0,3113,1,,,,Wohnort des Pat.,K,a,≤50,,
+3121,≥2.9,,0,3121,1,,,,Postfach PLZ,K,a,≤10,,
+3122,≥2.9,,0,3122,1,,,,Postfach Ort,K,a,≤70,,
+3123,≥2.9,,0,3123,1,,,,Postfach,K,a,≤10,,
+3124,≥2.9,,0,3124,1,,,,Postfach-Land,K,a,≤3,,
+3116,,,0,3116,1,,,,KV-Bereich,K,n,2,,(WOP)
+3108,,,0,3108,1,,,,Versichertenart MFR,M,n,1,"1 = Mitgl., 3 = Fam., 5 = Rentner",
+3110,≥2.9,,0,3110,1,,,,Geschlecht des Pat.,M,a,1,"M=männlich, W=weiblich, U=unbekannt, X=unbestimmt, D=divers",
+3200,,,0,3200,1,,,,Namenszusatz des Vers.,K,a,≤30,,
+3211,≥2.9,,0,3211,1,,,,Vorsatzwort des Vers.,K,a,≤20,,
+3201,,,0,3201,1,,,,Name des Vers.,K,a,≤45,,
+3202,,,0,3202,1,,,,Vorname des Vers.,K,a,≤45,,
+3203,,,0,3203,1,,,,Geburtsdatum des Vers.,K,d,8,,
+3204,,,0,3204,1,,,,Wohnort des Vers. I,K,a,≤60,,PLZ Ort
+3205,,,0,3205,1,,,,Straße des Vers.,K,a,≤60,,
+3212,≥2.9,,0,3212,1,,,,Hausnummer des Vers.,K,a,≤10,,
+3213,≥2.9,,0,3213,1,,,,Anschriftenzusatz des Vers.,K,a,≤40,,
+3206,,,0,3206,1,,,,Titel des Vers.,K,a,≤30,,
+3207,,,0,3207,1,,,,PLZ des Vers.,K,a,≤10,,
+3209,,,0,3209,1,,,,Wohnort des Vers. II,K,a,≤50,,
+3214,≥2.9,,0,3214,1,,,,Wohnsitz-Ländercode des Vers.,K,a,≤3,,
+3210,≥2.9,,0,3210,1,,,,Geschlecht des Vers.,K,a,1,"M=männlich, W=weiblich, U=unbekannt, X=unbestimmt, D=divers",
+3221,≥2.9,,0,3221,1,,,,Postfach PLZ des Vers.,K,a,≤10,,
+3222,≥2.9,,0,3222,1,,,,Postfach Ort des Vers.,K,a,≤70,,
+3223,≥2.9,,0,3223,1,,,,Postfach des Vers.,K,a,≤10,,
+3224,≥2.9,,0,3224,1,,,,Postfach-Land des Vers.,K,a,≤3,,
+3601,,,0,3601,1,,,,Röntgennummer,K,a,≤60,,
+3602,,,0,3602,1,,,,Archivnummer,K,a,≤60,,
+3603,,,0,3603,1,,,,BG-Nummer,K,a,≤60,,
+3610,,,0,3610,1,,,,Datum Patient seit,K,d,8,,
+3612,,,0,3612,1,,,,Datum Versicherungsbeginn bei Kassenwechsel,K,d,8,,
+3620,,,0,3620,1,,,,Beruf des Patienten,K,a,≤60,,
+3625,,,0,3625,1,,,,Arbeitgeber des Patienten,K,a,≤60,,
+3626,,,0,3626,n,,,,Telefonnummer des Patienten,K,a,≤60,,
+3627,,,0,3627,1,,,,Nationalität des Patienten,K,a,≤60,,
+3628,,,0,3628,1,,,,Muttersprache des Patienten,K,a,≤60,,
+3630,,,0,3630,1,,,,Arztnummer des Hausarztes,K,n,"7,9",,entweder die alte KV-Nummer 7- bzw. 9-stellig oder die BSNR und LANR je 9stellig im Format: BBBBBBBBB-LLLLLLLLL
+3631,,,0,3631,1,,,,Entfernung Wohnung-Praxis,K,a,≤60,,
+3632,,level_1,1,3632,n,,,,Kennung weiterer Kommunikationsverbindungen,K,a,≤60,"Telefon dienstlich                     
+Scall                                        
+Cityruf                                     
+Telefax                                    
+Email                                      ","Telefon Versicherter
+Twix
+Funktelefon
+Telefax dienstlich
+Homepage"
+3633,,level_2,1,,,n,,,"Inhalt (Fax, Email, WWW...)",m,a,≤60,www.bdt.de,
+3635,,,0,3635,1,,,,Arztzuordung,m,a,≤60,2#Dr. Meier                                            die Zahl entspricht der lfd. Arztnr. in SA besa/0010,
+3637,,,0,3637,1,,,,Rezeptkennung,K,a,≤20,1#gebührenfrei  bzw. 1#3.Januar 2002,
+3638,,,0,3638,1,,,,Gebührenfrei Heilmittel,K,a,≤20,1#gebührenfrei  bzw. 1#TT.MM.JJJJ,
+3639,,,0,3639,1,,,,Gebührenfrei Hilfsmittel,K,a,≤20,1#gebührenfrei  bzw. 1#Feb/03,
+3640,,,0,3640,1,,,,Befreiung von Praxisgebühr bis,K,d,8,,
+3645,≥2.7,,0,3645,1,,,,Patientenbild,K,a,≤60,,Dateiname des Patientenbildes
+3649,,level_1,2,3649,n,,,,Dauerdiagnose ab Datum,K,d,8,,
+3650,,level_2,2,,,1,,,Dauerdiagnosen,K,a,≤60,,
+0830,≥2.7,level_2,2,,,1,,,Dauerdiagnosentyp,M,n,1,"1=Behandl., 2=anamn., 0=unbek.",
+5xxx,,level_2,2,,,1,,,Arztkennzeichnung der Diagnose,M,a,,Zuordnung der Diagnose VOR oder NACH dem Eintrag,
+6001,,level_2,2,6001,,1,,,ICD-Schlüssel,m,a,"3,5,6",,
+6003,,level_3,2,,,,1,,Diagnosensicherheit,m,a,1,"V, Z, A,G",
+6004,,level_3,2,,,,1,,Seitenlokalisation,k,a,1,"R, L, B",
+6006,,level_3,2,,,,n,,Diagnosenerläuterung,k,a,≤60,,
+6008,,level_3,2,,,,n,,Diagnosenausnahmetatbestand,k,a,≤60,,
+3651,,level_1,3,3651,n,,,,Dauermedikamente ab Datum,K,d,8,,
+5xxx,,level_2,3,,,1,,,Arztkennzeichnung des Medikaments,M,a,,Zuordnung des Medikaments  VOR oder NACH dem Eintrag,
+3652,,level_2,3,3652,,n,,,Dauermedikamente,K,a,≤60,,
+0800,,level_3,3,,,,1,,Pharmazentralnummer,K,n,≤10,,
+0801,,level_3,3,,,,1,,Preis,K,f,10.2,,36.15
+0802,,level_3,3,,,,1,,Medikamententyp,M,n,1,,"0=Medikament, 1=BTM, 2=Heilmittel, 3=Hilfsmittel, 4=Impfstoff, 5=Sprechstundenbedarf"
+0803,,level_3,3,,,,1,,Verordnungsart,M,n,1,"0=Kasse, 1=Privat, 2=BG",
+0805,,level_3,3,,,,1,,Packungsgröße,K,a,2,,N2
+0806,,level_3,3,,,,1,,gebührenpflichtig,K,n,1,"0=nein, 1=ja",
+0807,,level_3,3,,,,1,,aut idem,K,n,1,"0=nein, 1=ja",
+0808,,level_3,3,,,,1,,Anzahl Packungen,K,n,2,,3
+0809,,level_3,3,,,,1,,Darreichungsform,K,a,≤60,,"Tabl., Injektion"
+0810,,level_3,3,,,,1,,Heilmittelart,K,n,2,,
+0811,,level_3,3,,,,1,,Einnahmeplan,K,a,≤60,,1-1-0-1;  2 x tägl.
+0812,,level_3,3,,,,n,,Zusätze,K,a,≤60,,"Diagnose bei Hilfsmitteln, Bestandteile bei Rezepturen..."
+0813,,level_3,3,,,,1,,Dauermed. abgesetzt am,K,d,8,,
+3653,,level_1,4,3653,n,,,,Risikofaktoren ab Datum,K,d,8,,
+3654,,level_2,4,,,n,,,Risikofaktoren,K,a,≤60,,
+3655,,level_1,5,3655,n,,,,Allergien ab Datum,K,d,8,,
+3656,,level_2,5,,,n,,,Allergien,K,a,≤60,,
+3657,,level_1,6,3657,n,,,,Unfalldatum,K,d,8,,
+3658,,level_2,6,,,n,,,Unfälle,K,a,≤60,,
+3659,,level_1,7,3659,n,,,,Operationsdatum,K,d,8,,
+3660,,level_2,7,,,n,,,Operationen,K,a,≤60,,
+3661,,level_1,8,3661,n,,,,Anamnesen ab Datum,K,d,8,,
+3662,,level_2,8,,,n,,,Anamnese,K,a,≤60,,
+3664,,,0,3664,1,,,,Anzahl Geburten,K,n,2,,
+3666,,,0,3666,1,,,,Anzahl Kinder,K,n,2,,
+3668,,,0,3668,1,,,,Anzahl Schwangerschaften,K,n,2,,
+3669,,level_1,9,3669,n,,,,Dauertherapie ab Datum,K,d,8,,
+3670,,level_2,9,,,n,,,Dauertherapie,K,a,≤60,,
+3672,,level_1,10,3672,n,,,,Datum des Kontrolltermins,K,d,8,,
+3673,,level_2,10,,,n,,,Inhalt der Kontrolltermine,K,a,≤60,,2. Impfung
+3700,,level_1,11,3700,1,,,,Name der ersten freien Kategorie,K,a,≤60,,
+3701,,level_2,11,,,n,,,Inhalt der ersten freien Kategorie,k,a,≤60,,
+3702,,level_1,12,3702,1,,,,Name der zweiten freien Kategorie,K,a,≤60,,
+3703,,level_2,12,,,n,,,Inhalt der zweiten freien Kategorie,k,a,≤60,,
+3704,,,0,3704,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt I,,a,,,
+3705,,,0,3705,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt II,,a,,,
+3706,,,0,3706,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt III,,a,,,
+3707,,,0,3707,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt IV,,a,,,
+3708,,,0,3708,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt V,,a,,,
+3709,,,0,3709,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt VI,,a,,,
+3710,,,0,3710,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt VII,,a,,,
+3711,,,0,3711,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt VIII,,a,,,
+3712,,,0,3712,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt IX,,a,,,
+3713,,,0,3713,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt X,,a,,,
+3714,,,0,3714,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt XI,,a,,,
+3715,,,0,3715,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt XII,,a,,,
+3716,,,0,3716,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt XIII,,a,,,
+3717,,,0,3717,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt XIV,,a,,,
+3718,,,0,3718,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt XV,,a,,,
+3719,,,0,3719,1,,,,Weitere freie Kategorien mit zugehörigem Inhalt XVI,,a,,,
+3917,,,0,3917,1,,,,Raucheranamnese,K,a,1,N = nie geraucht  E = Ex-Raucher R = Raucher  X = unbekannt,
+3918,,,0,3918,1,,,,Rauchertyp,K,a,≤2,"JS = starker Raucher, JN = normaler Raucher, N = Nichtraucher",
+4104,,,0,4104,1,,,,VK-Nummer,K,n,5,,
+4106,,,0,4106,1,,,,Kostenträgeruntergruppe,K,n,2,,
+4107,,,0,4107,1,,,,Abrechnungsart,K,n,1,"1 = PKA (Primärkassen) 2 = EKK (Ersatzkassen)
+3 = SKT (Sonstige Kostenträger)","nur noch Kann-Feld, da im KVDT nicht mehr vorhanden"
+4108,,,0,4108,1,,,,Zulassungsnummer,K,a,≤40,,mobiles Lesegerät
+4109,,,0,4109,1,,,,Letzter Einlesetag der VK,K,d,8,,
+4133,≥2.9,,0,4133,1,,,,Versicherungsschutz Beginn,m,d,8,,
+4110,≥2.9,,0,4110,1,,,,Versicherungsschutz Ende,m,d,8,falls 4109 nicht leer,
+4111,,,0,4111,1,,,,IK / Kostenträgerkennung,K,n,7 / 9,,
+4134,≥2.9,,0,4134,1,,,,Kostenträgername,m,a,≤70,,
+4112,,,0,4112,1,,,,Versichertenstatus,K,n,4,,
+4113,,,0,4113,1,,,,Statusergänzung,K,n,1,,
+4131,≥2.9,,0,4131,1,,,,Besondere Personengruppe,K,n,≤2,,
+4132,≥2.9,,0,4132,1,,,,DMP-Kennzeichnung,K,n,≤2,,
+4121,,,0,4121,1,,,,Gebührenordnung,K,n,1,"1 = BMÄ, 2 = E-GO, 3 = GOÄ",
+4370,≥2.9,,0,4370,1,,,,Katasternummer,K,N,4,,4101
+4371,≥2.9,,0,4371,1,,,,Reg.-Stelle,K,N,3,,10
+4372,≥2.9,,0,4372,1,,,,Pers.-Nummer,K,N,4,,1
+4135,,,0,4135,1,,,,Kassenname,K,a,≤60,,
+4206,,,0,4206,1,,,,Mutm. Tag der Entbindung,K,d,8,,
+4225,≥2.7,,0,4225,1,,,,erster Tag der letzten Periode,K,d,8,,
+4226,≥2.7,,0,4226,1,,,,tatsächlicher Tag der Entbindung,K,d,8,,
+4222,,,0,4222,1,,,,Kennziffer OI / OII,K,n,4,,bis 1. Quartal 2005
+4223,,,0,4223,1,,,,Kennziffer OIII,K,n,4,,bis 1. Quartal 2005
+4229,,,0,4229,1,,,,Ausnahmeindikation,k,n,5,,ab 2. Quartal 2005
+4580,,,0,4580,1,,,,Rechnungsart,m,n,≤2,nur bei Privatpatienten,
+6230,,,0,6230,1,,,,Blutdruck,K,a,7,nnn/nnn                                                 ,090/120
+0920,,level_1,13,0920,n,,,,IV-Modul-ID,K,n,≤4,,wenn der Patient IV-Verträge hat
+0921,,level_2,13,,,1,,,Antragsdatum,k,d,8,,Datum der Antragstellung
+0922,,level_2,13,,,1,,,Teilnahme von,k,d,8,,Teilnahme an IV von
+0923,,level_2,13,,,1,,,Teilnahme bis,k,d,8,,Teilnahme an IV bis
+0924,,level_2,13,,,1,,,Vertretung,k,n,1,1=in Vertretung                                     ,Behandlung in Vertretung
+0925,,level_2,13,,,1,,,Ausschluss,k,n,1,1=ausgeschlossen,
+0926,,level_2,13,,,1,,,Grund bei Ausschluss,k,a,≤60,,Ausschlussgrund
+0927,,level_2,13,,,1,,,HÄVG-ID des Arztes,k,n,5,,
+0928,≥2.7,level_2,13,,,1,,,Kürzel der HzV-Kasse,k,a,≤60,,
+0929,,level_2,13,,,1,,,MediVerbund-ID des Arztes,k,n,8,,
+0930,,level_2,13,,,1,,,LANR des Arztes bei S3C-Vertrag,k,n,9,,
+0931,,level_2,13,,,1,,,Versichertengruppe,k,n,1,"1=Zweitmeinungsverfahren
+2=Entlassungsmanagement                  
+3=Interdisz. psychiatr. Versorgung",bei S3C-Verträgen
+5xxx,,,0,5xxx,1,,,,Arztkennzeichnung des Patienten,M,a,,Zuordnung des Patienten VOR oder NACH dem Eintrag,

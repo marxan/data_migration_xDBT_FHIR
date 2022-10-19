@@ -1,0 +1,32 @@
+{
+    "resourceType": "Patient",
+    "identifier":"1",
+    "name":[
+        { 
+            "use": "oficial",
+            "given": ["Anna"],
+            "family": "Müller"
+        }],
+    "gender": "female",
+    "birthdate": "1990-12-22",
+    "telecom": [
+        {
+            "value": "36284694",
+            "use": "mobile",
+            "system": "phone"
+        },
+        {
+            "system": "email",
+            "value": "emailfromsomeone@gmail.com"
+        }
+    ],
+    "address":[
+        {
+            "line": [ "20, Le Blanch"],
+            "city": "Paris",
+            "state": "France",
+            "postalCode": "12053"
+
+        }
+    ]
+}
